@@ -1,0 +1,1895 @@
+[
+  {
+    "id": "alain-urrutia",
+    "name": "ALAIN URRUTIA",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Licenciado en Bellas Artes por la UPV, reside en Londres. Disfrutó de la Beca del Museo Solomon Guggenheim de Nueva York (2016). Su obra pictórica se basa en reinterpretar imágenes, habitualmente en blanco y negro, explorando la memoria, la sombra y el encuadre. Ha expuesto en el Boston Center for the Arts, Artium y en la conmemoración del 15 Aniversario del Museo Guggenheim Bilbao.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alain-urrutia-sin-titulo",
+        "title": "Sin Título",
+        "year": "2011",
+        "technique": "",
+        "dimensions": "",
+        "image": "/images/artworks/alain-urrutia/imagen_de_la_obra..jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alberto-salvan",
+    "name": "ALBERTO SALVÁN",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Fotógrafo madrileño (1979) con destacada trayectoria. Ganador del Premio \"FOAM TALENTS\" en 2011 y seleccionado en Descubrimientos PhotoEspaña. Su obra, que incluye series reflexivas sobre el paisaje y el entorno urbano como \"Cars and Houses\", forma parte de colecciones institucionales. Ha expuesto en el Museo de Fotografía de Amsterdam y ferias como Rencontres d'Arles y MadridFoto.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alberto-salvan-sin-titulo",
+        "title": "Places # 10 (Finlandia)",
+        "year": "2009",
+        "technique": "Fotografía con equipo analógico Hasselblad 6 x 6",
+        "dimensions": "",
+        "image": "/images/artworks/alberto-salvan/imagen_de_la_obra..jpg",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alfonso-costa-beiro",
+    "name": "ALFONSO COSTA BEIRO",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Destacado pintor gallego (Noia, 1943) de expresionismo lírico con ecos de Francis Bacon y el cubismo. Sus figuras, de incontenible dinámica y paleta evanescente, se inscriben en fondos luminosos. Becado por la Fundación March en 1972, tiene gran proyección internacional. Ha realizado grandes murales y su obra figura en museos de Arte Moderno, la Fundación March y el Congreso de los Diputados.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alfonso-costa-beiro-sin-titulo-aguada-sobre-papel",
+        "title": "SIN TÍTULO - Aguada sobre papel",
+        "year": "",
+        "technique": "Dibujo a tinta aguada sobre papel",
+        "dimensions": "63 x 50 centímetros",
+        "image": "/images/artworks/alfonso-costa-beiro/sin-titulo-aguada-sobre-papel.png",
+        "description": "",
+        "comments": ""
+      },
+      {
+        "id": "alfonso-costa-beiro-personaje",
+        "title": "PERSONAJE",
+        "year": "",
+        "technique": "Acuarela sobre papel",
+        "dimensions": "50 x 30 centímetros",
+        "image": "/images/artworks/alfonso-costa-beiro/personaje.png",
+        "description": ""
+      },
+      {
+        "id": "alfonso-costa-beiro-variaciones-sobre-colon-aguatinta",
+        "title": "VARIACIONES SOBRE COLÓN - Aguatinta",
+        "year": "1976",
+        "technique": "Aguatinta",
+        "dimensions": "64 x 49 centímetros",
+        "image": "/images/artworks/alfonso-costa-beiro/variaciones-sobre-colon-aguatinta.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alicia-martin",
+    "name": "ALICIA MARTÍN",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Artista multidisciplinar (Madrid, 1964) que destaca en la escultura e instalación. Su seña de identidad es el uso de libros como elemento escultórico y simbólico, por lo que ganó el Premio Antonio de Sancha 2019. Ha realizado intervenciones específicas globales y expuesto en el Thyssen-Bornemisza. Sus obras integran colecciones del MNCARS, CGAC, IVAM y la Biblioteca de Alejandría.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alicia-martin-sin-titulo",
+        "title": "Icono",
+        "year": "1995",
+        "technique": "Fotografía a color",
+        "dimensions": "",
+        "image": "/images/artworks/alicia-martin/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "amaya-gonzalez-reyes",
+    "name": "AMAYA GONZÁLEZ REYES",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Amaya González Reyes (Sanxenxo, 1979). Creadora visual gallega cuya polifacética producción se mueve entre la pintura, el dibujo, la instalación y la performance. En su obra explora las relaciones interpersonales y la ironía del día a día, desarrollando una estética muy personal, libre, íntima y profundamente contemporánea.",
+    "photo": null,
+    "works": [
+      {
+        "id": "amaya-gonzalez-reyes-sin-titulo",
+        "title": "Sin Título",
+        "year": "2007",
+        "technique": "",
+        "dimensions": "",
+        "image": "/images/artworks/amaya-gonzalez-reyes/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alberto-reguera",
+    "name": "ALBERTO REGUERA",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Pintor abstracto (Segovia, 1961) formado en París. Famoso por sus \"instalaciones pictóricas\" expansivas tridimensionales que saltan del lienzo al espacio. Su obra ha logrado gran impacto en Asia, con muestras en Hong Kong y Singapur. Ha expuesto en el Museo Thyssen-Bornemisza y el Louvre, fusionando materia pictórica y entorno arquitectónico. Su trabajo figura en Patrimonio Nacional.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alberto-reguera-un-largo-sueno",
+        "title": "UN LARGO SUEÑO",
+        "year": "1992",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "162 x 130 centímetros (Con marco: 165,5 x 134 centímetros)",
+        "image": "/images/artworks/alberto-reguera/un-largo-sueno.png",
+        "description": ""
+      },
+      {
+        "id": "alberto-reguera-monet-reflejos-olvidados",
+        "title": "MONET. Reflejos olvidados",
+        "year": "1994",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "104 x 104 centímetros",
+        "image": "/images/artworks/alberto-reguera/monet-reflejos-olvidados.png",
+        "description": ""
+      },
+      {
+        "id": "alberto-reguera-acuatico-nocturno",
+        "title": "ACUÁTICO NOCTURNO",
+        "year": "1994",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "104 x 104 centímetros",
+        "image": "/images/artworks/alberto-reguera/acuatico-nocturno.png",
+        "description": ""
+      },
+      {
+        "id": "alberto-reguera-abstractos-parajes-impresionistas",
+        "title": "ABSTRACTOS PARAJES IMPRESIONISTAS",
+        "year": "1994",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "104 x 104 centímetros",
+        "image": "/images/artworks/alberto-reguera/abstractos-parajes-impresionistas.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alejandro-carro",
+    "name": "ALEJANDRO CARRO",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Alejandro Carro. Artista español contemporáneo cuya obra pictórica y gráfica destaca por un lenguaje muy personal, de carácter sintético y profundamente expresivo, participando activamente en el circuito de las galerías de arte actuales.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alejandro-carro-sin-titulo",
+        "title": "Sin Título",
+        "year": "",
+        "technique": "Mixta sobre papel",
+        "dimensions": "",
+        "image": "/images/artworks/alejandro-carro/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "aitor-ortiz",
+    "name": "AITOR ORTIZ",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Aitor Ortiz (Bilbao, 1971). Fotógrafo de prestigio internacional, trabaja con el espacio arquitectónico, la luz y la industria como elementos cognitivos. Ha documentado el proceso del Guggenheim Bilbao y publicado monografías en Hatje Cantz. Su trabajo cuestiona la percepción visual mediante estructuras latentes. Galardonado con el Premio ABC y el Villa de Madrid, expone asiduamente en ARCO, Paris Photo y Art Basel. Su obra está en el MNCARS, Guggenheim e IVAM.",
+    "photo": null,
+    "works": [
+      {
+        "id": "aitor-ortiz-destructuras-057",
+        "title": "DESTRUCTURAS - 057",
+        "year": "2002",
+        "technique": "Copia fotográfica digital LAMBDA montada entre aluminio y metacrilato",
+        "dimensions": "50 x 125 centímetros",
+        "image": "/images/artworks/aitor-ortiz/destructuras-057.png",
+        "description": ""
+      },
+      {
+        "id": "aitor-ortiz-destructuras---003",
+        "title": "DESTRUCTURAS - 003",
+        "image": "/images/artworks/aitor-ortiz/destructuras-003.png",
+        "year": "2011",
+        "technique": "Copia fotográfica digital LAMBDA montada entre aluminio y metacrilato",
+        "dimensions": "50 x 125 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "ana-fernandez",
+    "name": "ANA FERNÁNDEZ",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Ana Fernández. Creadora visual que aborda la figura femenina y la construcción de la identidad a través de un prisma figurativo marcadamente expresionista, destacando por su especial sensibilidad para el retrato psicológico y un uso potente del color.",
+    "photo": null,
+    "works": [
+      {
+        "id": "ana-fernandez-sin-titulo",
+        "title": "Mujer II",
+        "year": "1997",
+        "technique": "Fotografía blanco y negro, (gelatina de plata) y montada en foam con marco negro de aluminio",
+        "dimensions": "",
+        "image": "/images/artworks/ana-fernandez/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "almudena-fernandez-farina",
+    "name": "ALMUDENA FERNÁNDEZ FARIÑA",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Doctora en Bellas Artes y docente universitaria (Vigo, 1970). Su labor combina certeramente investigación y creación plástica. Reconocida con el Premio Francisco de Goya y Premio L'Oreal (2000). Sus proyectos site-specific y pictóricos se expanden más allá del formato tradicional, explorando el espacio expositivo en lugares como el MARCO y el CGAC, formando parte de sus colecciones.",
+    "photo": null,
+    "works": [
+      {
+        "id": "almudena-fernandez-farina-sin-titulo",
+        "title": "Sin Título",
+        "year": "",
+        "technique": "",
+        "dimensions": "",
+        "image": "/images/artworks/almudena-fernandez-farina/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alberto-schommer",
+    "name": "ALBERTO SCHOMMER",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Fotógrafo histórico y clave de la vanguardia española (Vitoria, 1928 - 2015). Premio Nacional de Fotografía 2013 y Académico de Bellas Artes. Creador de los icónicos \"Retratos psicológicos\" de la Transición, y pionero de las voluminosas \"Cascografías\". Con un inmenso legado periodístico y artístico, su trabajo ha sido exhibido en el Centro Pompidou y el Museo del Prado.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alberto-schommer-sin-titulo",
+        "title": "Sin Título",
+        "year": "",
+        "technique": "Fotografía color",
+        "dimensions": "58 x 47,5 cm",
+        "image": "/images/artworks/alberto-schommer/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alfonso-abelenda-escudero",
+    "name": "ALFONSO ABELENDA ESCUDERO",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Pintor, arquitecto y humorista gráfico gallego (1931-2019) de talento precoz e irónico colaborador de \"La Codorniz\". Su pintura de raíz goyesca y tono expresionista ofrece gran belleza formal, dinamismo y paleta cálida. Viajero incansable, exhibió en capitales europeas y latinoamericanas, consolidando una obra irrepetible presente en múltiples museos e instituciones de Galicia.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alfonso-abelenda-escudero-sin-titulo",
+        "title": "Representación del mundo clásico",
+        "year": "",
+        "technique": "Tinta sobre cartón",
+        "dimensions": "",
+        "image": "/images/artworks/alfonso-abelenda-escudero/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "alvaro-negro",
+    "name": "ÁLVARO NEGRO",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Pintor conceptual (Lalín, 1973) formado en la Universidad de Vigo y Central Saint Martins de Londres. Adscrito al informalismo geométrico, su estética se plasma en superficies amplias y serenas (a menudo negros y azules) de gran depuración formal. Ha expuesto en el CGAC, Instituto Cervantes de Nápoles y Carpe Diem de Lisboa. Sus obras enriquecen las colecciones del CGAC y MACUF.",
+    "photo": null,
+    "works": [
+      {
+        "id": "alvaro-negro-sin-titulo",
+        "title": "SIN TÍTULO",
+        "year": "2002",
+        "technique": "Acrílico sobre lienzo",
+        "dimensions": "61 x 50 cms",
+        "image": "/images/artworks/alvaro-negro/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "ana-de-matos",
+    "name": "ANA DE MATOS",
+    "birthYear": "",
+    "birthPlace": "",
+    "biography": "Artista interdisciplinar que explora la condición femenina a través del grabado, la instalación, la escultura y el bordado, entrelazando técnicas artesanales tradicionales con conceptos contemporáneos. A lo largo de su trayectoria ha participado en numerosas exposiciones institucionales y ha recibido múltiples galardones por su trabajo centrado en la identidad y el papel de la mujer en la sociedad.",
+    "photo": null,
+    "works": [
+      {
+        "id": "ana-de-matos-sin-titulo",
+        "title": "Sin Título",
+        "year": "",
+        "technique": "Tela en forma de vestido",
+        "dimensions": "55 x 47 centímetros",
+        "image": "/images/artworks/ana-de-matos/sin-titulo.png",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": "antonio-medina",
+    "name": "ANTONIO MEDINA",
+    "biography": "Antonio Medina Serrano (Madrid, 1944). Estudió en la Escuela de Cerámica y Bellas Artes de San Fernando. Especializado en el género costumbrista, se vio influenciado por su trabajo restaurando obras del siglo XIX (Fortuny, Madrazo). Su estilo se caracteriza por un trazo seguro, brillante colorido y una rica fuerza evocadora de época, abordando también paisajes y retratos con óleo y acuarela. Desde 1983 ha realizado numerosas exposiciones individuales y colectivas con gran éxito de crítica y público.",
+    "works": [
+      {
+        "id": "antonio-medina-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/antonio-medina/sin-titulo.png",
+        "technique": "del óleo y también de la acuarela"
+      }
+    ]
+  },
+  {
+    "id": "antonio-lago-rivera",
+    "name": "ANTONIO LAGO RIVERA",
+    "biography": "Antonio Lago Rivera (La Coruña, 1916 - París, 1990). Reconocido pintor gallego afincado en París. Su obra abarca principalmente pintura y obra sobre papel (acuarela, tinta). A lo largo de su carrera ha expuesto en múltiples galerías, consolidando un estilo personal caracterizado por la soltura de su trazo y expresividad técnica.",
+    "works": [
+      {
+        "id": "antonio-lago-rivera-bodegon",
+        "title": "Bodegón",
+        "image": "/images/artworks/antonio-lago-rivera/sin-titulo.png",
+        "technique": "Acuarela/Tinta",
+        "year": "1972",
+        "dimensions": "22 x 18 cms"
+      }
+    ]
+  },
+  {
+    "id": "antonio-garcia-patino",
+    "name": "ANTONIO GARCÍA PATIÑO",
+    "biography": "Antonio García Patiño (La Coruña, 1932-2010). Artista polifacético cuya obra se divide en cuatro períodos. Su 'época negra' refleja influencias de Goya, Tàpies o El Greco. En los 60 abrazó el 'karmatismo' en Barcelona, seguido de un 'período blanco' centrado en figuras hieráticas y geométricas sin volumen. Finalmente, desarrolló series temáticas y esculturas. Expone desde 1957, y su obra está en prestigiosas colecciones como el MACBA, Caixa Galicia y el Parlamento Gallego.",
+    "works": [
+      {
+        "id": "antonio-garcia-patino-s-nina-una-joven-don-quijote-y-hombre-pensando",
+        "title": "s: Niña, Una joven, Don Quijote y Hombre pensando",
+        "image": "/images/artworks/antonio-garcia-patino/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "adolfo-barnatan",
+    "name": "ADOLFO BARNATÁN",
+    "biography": "Adolfo Barnatán (París, 1951). Afincado en Madrid, inició su carrera en los 70 destacando por un dibujo minucioso. En 1994 su obra experimentó un salto hacia la escultura y formatos monumentales, investigando óleos y acrílicos. Desde 1997 es pionero en el diseño de 'Joyas de autor', fusionando mitología y misticismo en materiales como ébano y oro. Expone habitualmente en ARCO y ferias internacionales. Su obra pertenece a colecciones como el MNCARS y Fundación 'la Caixa'.",
+    "works": [
+      {
+        "id": "adolfo-barnatan-imagenes-de-la-obra",
+        "title": "Imágenes de la obra",
+        "image": "/images/artworks/adolfo-barnatan/imagenes-de-la-obra.png",
+        "year": "1974",
+        "technique": "Mixta sobre lienzo"
+      }
+    ]
+  },
+  {
+    "id": "antoni-amat",
+    "name": "ANTONI AMAT",
+    "biography": "Antoni Amat (Barcelona, 1949). Artista catalán vinculado a la abstracción lírica y la experimentación matérica. Su obra, resuelta habitualmente en técnica mixta sobre papel, se caracteriza por un gesto expresivo y una paleta contenida que explora las texturas y la huella del proceso creativo. Ha expuesto en galerías de Barcelona y su trabajo forma parte de colecciones privadas en España.",
+    "works": [
+      {
+        "id": "antoni-amat-sin-titulo",
+        "title": "“Sin Título”",
+        "image": "/images/artworks/antoni-amat/sin-titulo.png",
+        "technique": "Técnica mixta sobre papel",
+        "dimensions": "•\t 46 centímetros (sin marco)"
+      }
+    ]
+  },
+  {
+    "id": "ana-laura-alaez",
+    "name": "ANA LAURA ALÁEZ",
+    "biography": "Ana Laura Aláez (Bilbao, 1964). Destacada artista contemporánea española, se autodefine como 'arquitecta de emociones'. Desde su debut en el Espai 13 de la Fundació Joan Miró (1992), su obra es una constante investigación espacial e identitaria. Su lenguaje incluye diseño, instalación, fotografía y música. Ha expuesto en el Palais de Tokyo, Museo Guggenheim Bilbao, MUSAC y representó a España en la Bienal de Venecia 2001. Su innovador estilo la ha consolidado a nivel mundial.",
+    "works": [
+      {
+        "id": "ana-laura-alaez-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/ana-laura-alaez/sin-titulo.png",
+        "technique": "Lápiz y collage sobre papel"
+      }
+    ]
+  },
+  {
+    "id": "angel-sevillano",
+    "name": "ÁNGEL SEVILLANO",
+    "biography": "Ángel Sevillano Estremera (Vigo, 1942 - Vilagarcía de Arousa, 1994). Pintor gallego cuya obra abarca el óleo y la acuarela sobre papel, con un estilo expresivo y vibrante. Su producción pictórica, desarrollada durante las décadas de los sesenta a los noventa, refleja una sensibilidad especial por el color y el paisaje gallego, combinando tradición e innovación técnica.",
+    "works": [
+      {
+        "id": "angel-sevillano-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/angel-sevillano/sin-titulo.png",
+        "technique": "Óleo sobre papel con toques de acuarela",
+        "year": "1966",
+        "dimensions": "49 x 65 cms"
+      }
+    ]
+  },
+  {
+    "id": "carlos-diez-bustos",
+    "name": "CARLOS DÍEZ BUSTOS",
+    "biography": "Carlos Díez Bustos (Madrid, 1959). Formado en dibujo y grabado en Madrid y Edimburgo. Su prolífica obra indaga en visiones arquitectónicas, realismo urbano, desnudos y naturalezas muertas. Experimenta con expedientes sonoros y silencios, combinando pintura y obra gráfica. Ha expuesto en galerías como Ansorena y Clérigos, así como en Art Miami y London Art Fair. Su obra forma parte de colecciones institucionales nacionales e internacionales.",
+    "works": [
+      {
+        "id": "carlos-diez-bustos-orange-head---grabado",
+        "title": "ORANGE HEAD - Grabado",
+        "image": "/images/artworks/carlos-diez-bustos/orange-head-grabado.png",
+        "technique": "Grabado sobre papel",
+        "dimensions": "53 x 40 cms"
+      },
+      {
+        "id": "carlos-diez-bustos-calton---oleo-sobre-carton",
+        "title": "CALTON - Óleo sobre cartón",
+        "image": "/images/artworks/carlos-diez-bustos/calton-oleo-sobre-carton.png",
+        "technique": "Óleo sobre cartón",
+        "year": "1991",
+        "dimensions": "55 x 35 centímetros"
+      },
+      {
+        "id": "carlos-diez-bustos-the-way---aguafuerte",
+        "title": "THE WAY - Aguafuerte",
+        "image": "/images/artworks/carlos-diez-bustos/the-way-aguafuerte.png",
+        "technique": "Aguafuerte en tres colores",
+        "year": "1997",
+        "dimensions": "•\tPlancha de zinc: 32 x 25 centímetros"
+      },
+      {
+        "id": "carlos-diez-bustos-era-una-serpiente---aguafuerte",
+        "title": "ERA UNA SERPIENTE - Aguafuerte",
+        "image": "/images/artworks/carlos-diez-bustos/era-una-serpiente-aguafuerte.png",
+        "technique": "Aguafuerte en tres colores",
+        "year": "1997",
+        "dimensions": "•\tPlancha de zinc: 32 x 25 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "calo-carratala",
+    "name": "CALO CARRATALÁ",
+    "biography": "Calo Carratalá (Valencia, 1959). Pintor de marcado carácter paisajístico. Su obra destaca por sus intensas expediciones por la Amazonia, Noruega o Los Alpes, plasmando la majestuosidad de la naturaleza en dibujos y óleos con una técnica rigurosa y un profundo respeto por el entorno salvaje. Expone asiduamente en España y prestigiosas ferias de arte internacionales.",
+    "works": [
+      {
+        "id": "calo-carratala-sin-titulo",
+        "title": "Torrent",
+        "image": "/images/artworks/calo-carratala/sin-titulo.png",
+        "year": "1996"
+      }
+    ]
+  },
+  {
+    "id": "angel-mateo-charris",
+    "name": "ÁNGEL MATEO CHARRIS",
+    "biography": "Ángel Mateo Charris (Cartagena, 1962). Pintor español vinculado a la línea figurativa neo-pop, fuertemente influido por el cómic, el cine y la historia del arte. Su estilo colorista y narrativo está cargado de ironía y sutiles referencias culturales. Es uno de los artistas más reconocidos de su generación, con obra en el MNCARS, el IVAM y múltiples museos de arte contemporáneo.",
+    "works": [
+      {
+        "id": "angel-mateo-charris-sin-titulo",
+        "title": "La ventana de Morandi",
+        "image": "/images/artworks/angel-mateo-charris/sin-titulo.png",
+        "technique": "Óleo sobre lienzo",
+        "year": "2014"
+      }
+    ]
+  },
+  {
+    "id": "baltazar-torres",
+    "name": "BALTAZAR TORRES",
+    "biography": "Baltazar Torres (Portugal, 1961). Destacado artista internacional y profesor de Bellas Artes en la Univ. Católica de Portugal. Su trabajo, que fusiona reflexión conceptual y ejecución meticulosa, se ha exhibido en más de cincuenta individuales por Europa. Su obra indaga en la relación entre el individuo, el entorno y la estructura social, con instalaciones y esculturas características. Está representado en colecciones como Culturgest, IVAM, CGAC y CAC Málaga.",
+    "works": [
+      {
+        "id": "baltazar-torres-sin-titulo",
+        "title": "A tutto gas",
+        "image": "/images/artworks/baltazar-torres/sin-titulo.jpg",
+        "technique": "Fotografía a color sobre papel en cartón pluma",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "id": "antonio-beneyto",
+    "name": "ANTONIO BENEYTO",
+    "biography": "Antonio Beneyto (Albacete, 1934 - Barcelona, 2020). Escritor, pintor y escultor español, maestro del mundo onírico y máximo representante del surrealismo contemporáneo y el postismo de posguerra. Su obra, poblada de criaturas híbridas y monstruosas con gran dosis de humor e ironía, explora el inconsciente y la metafísica. Dirigió las revistas 'La Esquina' y 'Barcarola'. Su prolífica obra plástica integra el MACBA y el Museo de Albacete, entre otras instituciones.",
+    "works": [
+      {
+        "id": "antonio-beneyto-dibujo---1",
+        "title": "DIBUJO - 1",
+        "image": "/images/artworks/antonio-beneyto/dibujo-1.png"
+      },
+      {
+        "id": "antonio-beneyto-dibujo---3",
+        "title": "DIBUJO - 3",
+        "image": "/images/artworks/antonio-beneyto/dibujo-3.png",
+        "technique": "Dibujo a tinta y color sobre papel",
+        "year": "2016",
+        "dimensions": "21 x 29,5 centímetros"
+      },
+      {
+        "id": "antonio-beneyto-dibujo---2",
+        "title": "DIBUJO - 2",
+        "image": "/images/artworks/antonio-beneyto/dibujo-2.png",
+        "technique": "Dibujo a tinta y color sobre papel",
+        "dimensions": "19 x 20 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "carlos-macia",
+    "name": "CARLOS MACIÁ",
+    "biography": "Carlos Maciá (Lugo, 1977). Licenciado en Bellas Artes por la Univ. Politécnica de Valencia, su obra es una exploración incesante del color y el espacio urbano. Desarrolla su práctica artística a través de la pintura, el grafiti y la intervención directa en el espacio arquitectónico, alterando la percepción del espectador. Ha expuesto individualmente en el MARCO de Vigo, Fundación Luis Seoane y en destacadas galerías nacionales e internacionales.",
+    "works": [
+      {
+        "id": "carlos-macia-arbol-de-castilla---la-mancha",
+        "title": "ÁRBOL DE CASTILLA - LA MANCHA",
+        "image": "/images/artworks/carlos-macia/arbol-de-castilla-la-mancha.png",
+        "technique": "de Valencia",
+        "year": "2000",
+        "dimensions": "20 x 30,5 centímetros"
+      },
+      {
+        "id": "carlos-macia-cuadro-estructuras-sin-titulo-no-3",
+        "title": "CUADRO ESTRUCTURAS. Sin Título, nº 3",
+        "image": "/images/artworks/carlos-macia/cuadro-estructuras-sin-titulo-no-3.png",
+        "technique": "de Valencia",
+        "year": "2002",
+        "dimensions": "150 x 150 x 6 centímetros"
+      },
+      {
+        "id": "carlos-macia-cuadro-spray",
+        "title": "CUADRO SPRAY",
+        "image": "/images/artworks/carlos-macia/cuadro-spray.png",
+        "technique": "Mixta sobre lienzo pegado a tabla",
+        "year": "2004",
+        "dimensions": "100 x 100 centímetros"
+      },
+      {
+        "id": "carlos-macia-entre-rueda-y-bahamontes",
+        "title": "Entre Rueda y Bahamontes",
+        "image": "/images/artworks/carlos-macia/entre-rueda-y-bahamontes.png",
+        "technique": "Vinilo y cinta adhesiva sobre papel Offset",
+        "year": "2018",
+        "dimensions": "59,2 x 42 centímetros"
+      },
+      {
+        "id": "carlos-macia-sin-titulo-no-4-serio-estructuras",
+        "title": "Sin Título Nº 4 (Serio ESTRUCTURAS)",
+        "image": "/images/artworks/carlos-macia/cuadro-estructuras-sin-titulo-no-4.png",
+        "technique": "Mixta sobre lienzo pegado a tabla",
+        "year": "2002",
+        "dimensions": "150 x 150 x 6 centímetros"
+      },
+      {
+        "id": "carlos-macia-multiplos",
+        "title": "MÚLTIPLOS",
+        "image": "/images/artworks/carlos-macia/multiplos.jpg",
+        "technique": "Esmalte sobre aluminio lacado",
+        "year": "2011",
+        "dimensions": "25 x 22 x 14 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "angel-masip",
+    "name": "ÁNGEL MASIP",
+    "biography": "Ángel Masip (Alicante, 1977). Destacado artista contemporáneo de su generación, desarrolla una profunda investigación pictórica y conceptual en torno al orden y la entropía. Galardonado con el Premio Pilar Juncosa de la Fundación Joan Miró y becado por la Academia de España en Roma. Expone habitualmente en ARCO y JustMad. Su obra entrelaza la pintura abstracta con nuevas narrativas visuales, figurando en el MUSAC y la Fundación Sa Nostra.",
+    "works": [
+      {
+        "id": "angel-masip-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/angel-masip/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "antonio-socias",
+    "name": "ANTONIO SOCIAS",
+    "biography": "Antoni Socías Albaladejo (Inca, 1955). Artista multidisciplinar que transita con soltura por la pintura, fotografía, escultura y el collage. Evolucionó del hiperrealismo fragmentario al expresionismo figurativo y land art, profundizando en dicotomías como orden-desorden y construcción-destrucción. Su rica producción desafía constantemente el lenguaje artístico. Ha expuesto en el Casal Solleric, Es Baluard y ferias internacionales como Colonia o Los Ángeles.",
+    "works": [
+      {
+        "id": "antonio-socias-sin-titulo",
+        "title": "Quién robó el sombrero de Joseph Beuys ?",
+        "image": "/images/artworks/antonio-socias/sin-titulo.png",
+        "technique": "s, materiales, concepciones y maneras de ver y entender el hecho artístico, con un lenguaje variado, en el que la fotografía convive con la pintura, la escultura, el vídeo, el dibujo o el collage",
+        "year": "1998"
+      }
+    ]
+  },
+  {
+    "id": "bernardi-roig",
+    "name": "BERNARDÍ ROIG",
+    "biography": "Bernardí Roig (Palma de Mallorca, 1965). Considerado uno de los creadores españoles más relevantes a nivel mundial. Su obra es una profunda reflexión sobre la luz, la ceguera, la memoria y el aislamiento del ser humano contemporáneo, materializada frecuentemente a través de esculturas de escayola blanca enfrentadas a tubos fluorescentes. Ha exhibido en The Phillips Collection, Bienal de Venecia, CA’ PESARO y el Museo Nacional de Escultura.",
+    "works": [
+      {
+        "id": "bernardi-roig-sin-titulo",
+        "title": "SIN TÍTULO",
+        "image": "/images/artworks/bernardi-roig/sin-titulo.png",
+        "technique": "Óleo sobre lienzo",
+        "year": "1989",
+        "dimensions": "61 x 50 centímetros"
+      },
+      {
+        "id": "bernardi-roig-vanitatem-iii---litografia",
+        "title": "VANITATEM III - Litografía",
+        "image": "/images/artworks/bernardi-roig/vanitatem-iii-litografia.jpg",
+        "technique": "Litografía",
+        "year": "1993",
+        "dimensions": "101 x 70 centímetros"
+      },
+      {
+        "id": "bernardi-roig-crucifixion",
+        "title": "CRUCIFIXIÓN",
+        "image": "/images/artworks/bernardi-roig/crucifixion.png",
+        "technique": "Óleo sobre lienzo",
+        "year": "1989",
+        "dimensions": "114 x 146 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "carlos-leon",
+    "name": "CARLOS LEON",
+    "biography": "Carlos León Escudero (Ceuta, 1948). Figura clave del expresionismo abstracto español e introductor del movimiento 'Support-surfaces'. Su pintura, matérica y de intensa gestualidad, posee un innegable poder evocador. Galardonado con la Medalla de Oro al Mérito en las Bellas Artes (2022) y el Premio Arte y Mecenazgo (2016). Tras residir en París y Nueva York, su trayectoria internacional le ha llevado a exponer en la Bienal de Venecia y contar con obra en el MNCARS.",
+    "works": [
+      {
+        "id": "carlos-leon-sin-titulo",
+        "title": "La fronteras del aire",
+        "image": "/images/artworks/carlos-leon/sin-titulo.jpg",
+        "year": "2016",
+        "technique": "Grabado al aguafuerte sobre papel Arches"
+      }
+    ]
+  },
+  {
+    "id": "antonio-galan-tono",
+    "name": "ANTONIO GALÁN - TONO",
+    "biography": "Antonio Galán Fuentes 'Tono' (Santiago de Compostela, 1967). Artista polifacético especializado en procedimientos pictóricos, pintura mural, grabado y escultura. Formado con Martín Chirino, su obra es un ejercicio de rigor técnico y abstracción poética. Desarrolla su actividad también en el humor gráfico y la restauración. Ha participado en el Foro Atlántico y pertenece a colecciones institucionales como ABANCA y el MAC de Marbella.",
+    "works": [
+      {
+        "id": "antonio-galan-tono-mistoria-del-arte--info20103dhd-esculturas-en-alta-definicion-sala-de-exposiciones-del-palacio-municipal-la-coruna-inaugurada-el-12-mayo-de-2010",
+        "title": "«Mistoria del arte») (+ info) 2010: «3DHD Esculturas en Alta Definición», Sala de Exposiciones del Palacio Municipal, La Coruña (inaugurada el 12 mayo de 2010)",
+        "image": "/images/artworks/antonio-galan-tono/sin-titulo.png",
+        "technique": "s Murales y donde realiza diversos cursos"
+      }
+    ]
+  },
+  {
+    "id": "anton-patino",
+    "name": "ANTÓN PATIÑO",
+    "biography": "Antón Patiño (Monforte de Lemos, 1957). Co-fundador del colectivo Atlántica, que renovó la plástica gallega en los 80. Su obra fusiona expresionismo simbólico, gestualismo y una profunda vinculación con el paisaje gallego, a través de la saturación de color y signos enigmáticos. Con gran proyección internacional, ha protagonizado retrospectivas en el CGAC y el Centro Conde Duque. Es además un destacado teórico contemporáneo.",
+    "works": [
+      {
+        "id": "anton-patino-sin-titulo---1975",
+        "title": "SIN TÍTULO - 1975",
+        "image": "/images/artworks/anton-patino/sin-titulo-1975.png",
+        "technique": "Acrílico y tinta sobre papel",
+        "year": "1975",
+        "dimensions": "70 x 50 centímetros (sin marco)"
+      },
+      {
+        "id": "anton-patino-abanico---puxando-o-ar",
+        "title": "ABANICO - Puxando o ar",
+        "image": "/images/artworks/anton-patino/abanico-puxando-o-ar.png",
+        "technique": "Técnica mixta sobre el propio abanico de tela",
+        "dimensions": "Abierto de 42 x 22 centímetros (58 x 50 cms"
+      }
+    ]
+  },
+  {
+    "id": "antonio-murado",
+    "name": "ANTONIO MURADO",
+    "biography": "Antonio Murado (Lugo, 1964). Pintor de gran proyección internacional residente en Nueva York. Su estilo se distingue por el dominio técnico de las veladuras, la abstracción lírica y una delicada sensibilidad por texturas y elementos naturales. Ganador del Premio L’Oréal, su cotizada obra se ha expuesto en EE.UU., Australia o Japón, y se integra en colecciones del MNCARS, Patrimonio Nacional y el Chase Manhattan Bank.",
+    "works": [
+      {
+        "id": "antonio-murado-sin-titulo",
+        "title": "SIN TÍTULO",
+        "image": "/images/artworks/antonio-murado/sin-titulo.png",
+        "technique": "+ AUTOR: ANTONIO MURADO",
+        "year": "1995",
+        "dimensions": "52 x 70 centímetros (sin marco)"
+      },
+      {
+        "id": "antonio-murado-maranas-verde",
+        "title": "MARAÑAS VERDE",
+        "image": "/images/artworks/antonio-murado/maranas-verde.png",
+        "technique": "Óleo sobre cartón duro plastificado",
+        "year": "1995",
+        "dimensions": "52 x 70 cms"
+      },
+      {
+        "id": "antonio-murado-redes-marrones",
+        "title": "REDES MARRONES",
+        "image": "/images/artworks/antonio-murado/redes-marrones.png",
+        "technique": "Óleo sobre cartulina",
+        "dimensions": "26,5 x 35 cms"
+      },
+      {
+        "id": "antonio-murado-maranas-verde-y-rojo",
+        "title": "Marañas verde y rojo",
+        "image": "/images/artworks/antonio-murado/maranas-verde-y-rojo.png",
+        "technique": "Óleo sobre cartón duro plastificado",
+        "year": "1995",
+        "dimensions": "52 x 70 cms"
+      },
+      {
+        "id": "antonio-murado-maranas-gris",
+        "title": "Marañas gris",
+        "image": "/images/artworks/antonio-murado/maranas-gris.png",
+        "technique": "Óleo sobre lienzo",
+        "year": "1995",
+        "dimensions": "65 x 81cms"
+      },
+      {
+        "id": "antonio-murado-maranas-salmon",
+        "title": "MARAÑAS SALMÓN",
+        "image": "/images/artworks/antonio-murado/maranas-salmon.png",
+        "technique": "Óleo sobre lino",
+        "year": "1996",
+        "dimensions": "50 x 50 cms"
+      }
+    ]
+  },
+  {
+    "id": "antonio-rojas",
+    "name": "ANTONIO ROJAS",
+    "biography": "Antonio Rojas Peinado (Tarifa, 1962). Destacado pintor figurativo cuyo estilo se enmarca en un realismo poético y metafísico. Su obra destaca por paisajes limpios, horizontes marítimos, juegos de sombras y composiciones arquitectónicas evocadoras. Utiliza habitualmente técnica mixta, acrílicos y collage, creando atmósferas de profunda serenidad. Cuenta con un extenso recorrido expositivo y reconocimiento crítico.",
+    "works": [
+      {
+        "id": "antonio-rojas-isla-cristina",
+        "title": "Isla Cristina",
+        "image": "/images/artworks/antonio-rojas/obra-4.png",
+        "technique": "Acuarela sobre papel",
+        "year": "2023",
+        "dimensions": "29 x 22 centímetros (sin marco)"
+      },
+      {
+        "id": "antonio-rojas-isla-cristina-1",
+        "title": "Isla Cristina",
+        "image": "/images/artworks/antonio-rojas/obra-3.png",
+        "technique": "Acuarela sobre papel",
+        "year": "2023",
+        "dimensions": "29 x 22 centímetros (sin marco)"
+      },
+      {
+        "id": "antonio-rojas-isla-cristina-2",
+        "title": "Isla Cristina",
+        "image": "/images/artworks/antonio-rojas/obra-2.png",
+        "technique": "Acuarela sobre papel",
+        "year": "2023",
+        "dimensions": "29 x 22 centímetros"
+      },
+      {
+        "id": "antonio-rojas-isla-cristina-3",
+        "title": "Isla Cristina",
+        "image": "/images/artworks/antonio-rojas/obra-1.png",
+        "technique": "Acuarela sobre papel",
+        "year": "2023",
+        "dimensions": "20 x 20 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "arturo-prins",
+    "name": "ARTURO PRINS",
+    "biography": "Arturo Prins (Buenos Aires, 1972). Artista polifacético, cineasta y pintor residente en Madrid. Becado en Dinamarca y vinculado al DOGMA 95, su inquietud creativa abarca documentales nominados a los Goya y una extensa obra plástica. En su pintura explora la explosión del color y el dinamismo gestual abstracto. Ha sido galardonado en múltiples certámenes nacionales, exponiendo su pintura por toda España.",
+    "works": [
+      {
+        "id": "arturo-prins-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/arturo-prins/sin-titulo.png",
+        "technique": "Óleo sobre lienzo"
+      }
+    ]
+  },
+  {
+    "id": "cesar-saldivar",
+    "name": "CÉSAR SALDIVAR",
+    "biography": "César Saldívar (Monterrey, México, 1965). Destacado fotógrafo mexicano afincado en España, reconocido como el 'fotógrafo del cine español'. Su lenguaje visual, profundamente honesto, se plasma en fotografías analógicas en blanco y negro, donde destaca la figura al desnudo bajo luz natural. Ha retratado a grandes figuras de la cultura como Pedro Almodóvar o Penélope Cruz, y su obra se expone internacionalmente.",
+    "works": [
+      {
+        "id": "cesar-saldivar-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/cesar-saldivar/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "carolina-ferrer",
+    "name": "CAROLINA FERRER",
+    "biography": "Carolina Ferrer Juan (Valencia, 1958). Pintora y creadora visual valenciana. Su obra destaca por atmósferas misteriosas, dominadas por verdes ácidos, negros y magentas, aplicando técnicas innovadoras con resina epoxy que otorgan a sus lienzos un carácter casi irreal. Ha expuesto en la Sala Parpalló y su obra reflexiona poéticamente sobre la luz, la memoria y el paso del tiempo.",
+    "works": [
+      {
+        "id": "carolina-ferrer-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/carolina-ferrer/sin-titulo.png",
+        "technique": "empleada a base de resina epoxy crean misterio en sus imágenes y conforman su sello de identidad, convirtiendo en única su pintura",
+        "year": "2019"
+      }
+    ]
+  },
+  {
+    "id": "cecili0-pla-y-gallardo",
+    "name": "CECILI0 PLA y GALLARDO",
+    "biography": "Cecilio Pla y Gallardo (Valencia, 1859 - Madrid, 1934). Maestro de la pintura impresionista y luminista española, contemporáneo de Sorolla. Destacó como pintor, ilustrador y académico de San Fernando. Su obra, que abarca el retrato, el costumbrismo y la pintura social, brilla por la maestría en la captación de la luz ('Señoras en la playa'). Su obra figura en el Museo del Prado y el Museo de Bellas Artes de Valencia.",
+    "works": [
+      {
+        "id": "cecili0-pla-y-gallardo-senoras-en-la-playa-oleo",
+        "title": "SEÑORAS EN LA PLAYA - Óleo",
+        "image": "/images/artworks/cecili0-pla-y-gallardo/senoras-en-la-playa-oleo.png",
+        "technique": "Óleo sobre cartón (tarjeta postal)",
+        "dimensions": "14 x 9 cms (47 x 42 cms"
+      },
+      {
+        "id": "cecili0-pla-y-gallardo-estudios-de-figuras",
+        "title": "Estudios de figuras",
+        "image": "/images/artworks/cecili0-pla-y-gallardo/estudios-de-figuras-dibujo.png",
+        "technique": "Lápiz sobre papel",
+        "dimensions": "22 x 15 centímetros / 31 x 24 centímetros (marco)"
+      }
+    ]
+  },
+  {
+    "id": "eduardo-nave-silvestre",
+    "name": "EDUARDO NAVE SILVESTRE",
+    "biography": "Eduardo Nave Silvestre (Valencia, 1976). Reconocido fotógrafo español contemporáneo. Su obra documenta paisajes históricos marcados por el trauma o el paso del tiempo ('Serie Normandie'). Su estilo sereno, poético y reflexivo ha sido galardonado en múltiples certámenes internacionales como PhotoEspaña. Sus fotografías integran importantes colecciones públicas y privadas nacionales e internacionales.",
+    "works": [
+      {
+        "id": "eduardo-nave-silvestre-de-la-serie",
+        "title": "(de la SERIE):",
+        "image": "/images/artworks/eduardo-nave-silvestre/volcan-tajogaite.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2021",
+        "dimensions": "18 x 22 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-xxx",
+        "title": "XXX",
+        "image": "/images/artworks/eduardo-nave-silvestre/xxx-serie-like-capitulo-2.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2003",
+        "dimensions": "18 x 21 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-solo-vol",
+        "title": "SOLO Vol",
+        "image": "/images/artworks/eduardo-nave-silvestre/rio-tinto.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2011",
+        "dimensions": "18 x 21 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-playa-de-st",
+        "title": "Playa de St",
+        "image": "/images/artworks/eduardo-nave-silvestre/normandie-1.png",
+        "technique": "Copia fotográfica digital LAMBDA",
+        "dimensions": "100 x 37 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-xxvii",
+        "title": "XXVII",
+        "image": "/images/artworks/eduardo-nave-silvestre/xxvii-serie-like-capitulo-1.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2003",
+        "dimensions": "16 x 21,5 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-restos-del-puerto-militar-artificial-mulberry",
+        "title": "Restos del puerto militar artificial Mulberry",
+        "image": "/images/artworks/eduardo-nave-silvestre/normandia-primer-viernes-junio-2024.png",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "dimensions": "20,5 x 15 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-st-xvi",
+        "title": "S/T - XVI",
+        "image": "/images/artworks/eduardo-nave-silvestre/paisajes-intermedios.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2001",
+        "dimensions": "11 x 16,5 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-sugeto-1199",
+        "title": "Sugeto 1199",
+        "image": "/images/artworks/eduardo-nave-silvestre/will-be-lost-in-time.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2023",
+        "dimensions": "12 x 18 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-normandie-3",
+        "title": "NORMANDIE - 3",
+        "image": "/images/artworks/eduardo-nave-silvestre/normandie-3.png",
+        "technique": "Fotografía",
+        "year": "2005",
+        "dimensions": "60 x 80 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-xxii",
+        "title": "XXII",
+        "image": "/images/artworks/eduardo-nave-silvestre/like-2.png",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2004",
+        "dimensions": "18 x 21 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-normandie-2",
+        "title": "NORMANDIE - 2",
+        "image": "/images/artworks/eduardo-nave-silvestre/normandie-2.png",
+        "technique": "Fotografía",
+        "year": "2005",
+        "dimensions": "60 x 80 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-entre-alejandria-y-el-cairo-egipto",
+        "title": "Entre Alejandría y El Cairo (Egipto)",
+        "image": "/images/artworks/eduardo-nave-silvestre/entre-alejandria-y-el-cairo-egipto.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "dimensions": "18 x 21 centímetros",
+        "images": [
+          "/images/artworks/eduardo-nave-silvestre/entre-alejandria-y-el-cairo-egipto-n2.jpg"
+        ]
+      },
+      {
+        "id": "eduardo-nave-silvestre-vii",
+        "title": "VII",
+        "image": "/images/artworks/eduardo-nave-silvestre/vii-serie-like-capitulo-0.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2003",
+        "dimensions": "15 x 20,5 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-de-la-serie-1",
+        "title": "(de la SERIE):",
+        "image": "/images/artworks/eduardo-nave-silvestre/no-hay-tal-lugar-patagonia.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2009",
+        "dimensions": "18 x 22 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-xxii-1",
+        "title": "XXII”",
+        "image": "/images/artworks/eduardo-nave-silvestre/like-2.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2004",
+        "dimensions": "18 x 21 centímetros"
+      },
+      {
+        "id": "eduardo-nave-silvestre-normandia",
+        "title": "NORMANDÍA",
+        "image": "/images/artworks/eduardo-nave-silvestre/normandia.jpg",
+        "technique": "Impresión Inkjet Tintas Pigmentadas",
+        "year": "2019",
+        "dimensions": "12 x 15 centímetros (18 x 25 centímetros con marco)"
+      }
+    ]
+  },
+  {
+    "id": "dario-alvarez-basso",
+    "name": "DARÍO ÁLVAREZ BASSO",
+    "biography": "Darío Álvarez Basso (Caracas, 1966). Pintor español de origen venezolano, referente del neoexpresionismo abstracto e informalismo de los 80. Su pintura, matérica y expansiva, se enriquece de influencias orientales y vivencias en Roma, París y Nueva York. Galardonado con prestigiosas becas, su obra forma parte de las colecciones del MNCARS, IVAM y CGAC.",
+    "works": [
+      {
+        "id": "dario-alvarez-basso-mozia",
+        "title": "Mozia",
+        "image": "/images/artworks/dario-alvarez-basso/mozia.png",
+        "technique": "Lápiz, acuarela y témpera sobre papel",
+        "year": "2003",
+        "dimensions": "41 x 29 cms"
+      },
+      {
+        "id": "dario-alvarez-basso-un-pacto-grabado",
+        "title": "UN PACTO - Grabado",
+        "image": "/images/artworks/dario-alvarez-basso/un-pacto-grabado.png",
+        "technique": "Grabado",
+        "year": "1990",
+        "dimensions": "77 x 88 centímetros"
+      },
+      {
+        "id": "dario-alvarez-basso-composiciones-2-acuarelas",
+        "title": "COMPOSICIONES 2 - Acuarelas",
+        "image": "/images/artworks/dario-alvarez-basso/composiciones-2-acuarelas.png",
+        "technique": "Acuarelas sobre papel",
+        "year": "1998",
+        "dimensions": "•\t27,5 x 21 centímetros (sin marco)"
+      },
+      {
+        "id": "dario-alvarez-basso-composiciones-acuarelas",
+        "title": "COMPOSICIONES - Acuarelas",
+        "image": "/images/artworks/dario-alvarez-basso/composiciones-acuarelas.png",
+        "technique": "Acuarela sobre papel",
+        "year": "1998",
+        "dimensions": "•\t27,5 x 21 centímetros (sin marco)"
+      }
+    ]
+  },
+  {
+    "id": "eduardo-barco",
+    "name": "EDUARDO BARCO",
+    "biography": "Eduardo Barco (Ciudad Real, 1970). Destacado artista y pintor abstracto español. Su obra explora la geometría, la proporción y el equilibrio cromático, creando composiciones espaciales que rozan el minimalismo y el constructivismo. Ha exhibido su trabajo en numerosas galerías y ferias de arte contemporáneo (ARCO), integrando colecciones como la Fundación Coca-Cola o el Museo Municipal de Madrid.",
+    "works": [
+      {
+        "id": "eduardo-barco-sin-titulo",
+        "title": "“Sin Título”",
+        "image": "/images/artworks/eduardo-barco/sin-titulo.png",
+        "technique": "Óleo sobre lienzo + MEDIDAS: 40,5 x 50 centímetros",
+        "year": "1994",
+        "dimensions": "40,5 x 50 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "chus-garcia-fraile",
+    "name": "CHUS GARCÍA-FRAILE",
+    "biography": "Chus García-Fraile (Madrid, 1965). Reconocida artista multidisciplinar cuyo trabajo abarca la pintura, la fotografía y la instalación ('Icono'). Su obra es una reflexión crítica sobre el consumismo, la publicidad y el entorno urbano, caracterizada por un hiperrealismo conceptual. Expositora habitual en ARCO y ferias internacionales, su obra pertenece a colecciones como el MNCARS, MUSAC y Fundación La Caixa.",
+    "works": [
+      {
+        "id": "chus-garcia-fraile-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/chus-garcia-fraile/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "din-matamoro",
+    "name": "DIN MATAMORO",
+    "biography": "Din Matamoro (Vigo, 1958). Pintor gallego imprescindible para entender la abstracción contemporánea en España. Su pintura es un silencioso y poético estudio sobre la luz, la vibración del color y la percepción retiniana. Tras vivir en Nueva York y Roma, consolidó un estilo depurado y minimalista. Ha expuesto en el CGAC y el MARCO, y su obra figura en relevantes colecciones como el MNCARS.",
+    "works": [
+      {
+        "id": "din-matamoro-grabado",
+        "title": "GRABADO",
+        "image": "/images/artworks/din-matamoro/grabado.png",
+        "technique": "Mixta sobre papel",
+        "year": "2002",
+        "dimensions": "•\t29,5 x 21 centímetros (SIN MARCO)"
+      },
+      {
+        "id": "din-matamoro-acuarela",
+        "title": "ACUARELA",
+        "image": "/images/artworks/din-matamoro/acuarela.png",
+        "technique": "Mixta sobre papel",
+        "year": "2002",
+        "dimensions": "•\t29,5 x 21 centímetros (sin marco)"
+      }
+    ]
+  },
+  {
+    "id": "daniel-argimon",
+    "name": "DANIEL ARGIMÓN",
+    "biography": "Daniel Argimón (Barcelona, 1929 - 1996). Pintor, grabador y escultor informalista catalán. Pionero en el uso de materiales de desecho (assemblage, collages y técnica mixta sobre tela) durante los años sesenta, su obra está cargada de expresividad dramática y protesta política. Expuso ampliamente en Europa y América. Su obra está representada en el MACBA, MNCARS y múltiples museos de arte moderno.",
+    "works": [
+      {
+        "id": "daniel-argimon-sin-titulo-1",
+        "title": "SIN TÍTULO - 1",
+        "image": "/images/artworks/daniel-argimon/sin-titulo-1.png",
+        "technique": "Técnica mixta sobre tela",
+        "dimensions": "33 x 24 centímetros (sin marco)"
+      },
+      {
+        "id": "daniel-argimon-sin-titulo-2",
+        "title": "SIN TÍTULO - 2",
+        "image": "/images/artworks/daniel-argimon/sin-titulo-2.png",
+        "technique": "Técnica mixta sobre tela",
+        "dimensions": "33 x 24 centímetros (sin marco)"
+      },
+      {
+        "id": "daniel-argimon-sin-titulo-3",
+        "title": "SIN TÍTULO - 3",
+        "image": "/images/artworks/daniel-argimon/sin-titulo-3.png",
+        "technique": "Técnica mixta sobre papel",
+        "dimensions": "30 x 22 centímetros (sin marco)"
+      }
+    ]
+  },
+  {
+    "id": "diego-casado-cerezo",
+    "name": "DIEGO CASADO CEREZO",
+    "biography": "Diego Casado Cerezo (Sevilla, 1958). Pintor contemporáneo cuya obra reflexiona sobre el paisaje, la memoria y el espacio interior. Series como 'La casa del alma' o 'Espacio oculto' revelan un lirismo abstracto de gran delicadeza cromática. Su técnica combina la materia pictórica con atmósferas contemplativos de profunda serenidad. Ha expuesto en diversas galerías nacionales, consolidando un sólido prestigio entre la crítica especializada.",
+    "works": [
+      {
+        "id": "diego-casado-cerezo-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/diego-casado-cerezo/sin-titulo.png",
+        "images": [
+          "/images/artworks/diego-casado-cerezo/sin-titulo-n2.png",
+          "/images/artworks/diego-casado-cerezo/sin-titulo-n3.png",
+          "/images/artworks/diego-casado-cerezo/sin-titulo-n4.png"
+        ]
+      },
+      {
+        "id": "diego-casado-cerezo-la-casa-del-alma",
+        "title": "La casa del alma",
+        "image": "/images/artworks/diego-casado-cerezo/la-casa-del-alma.jpg",
+        "technique": "Fotografía color sobre aluminio y metacrilato",
+        "year": "2007",
+        "dimensions": "105 x 80 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-oculto",
+        "title": "Espacio oculto",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-oculto.png",
+        "technique": "Fotografía color sobre dibond",
+        "year": "2008",
+        "dimensions": "156 x 120 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-verde",
+        "title": "Espacio Verde",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-verde.png",
+        "technique": "Fotografía color sobre aluminio",
+        "year": "2005",
+        "dimensions": "120 x 120 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-cantabrico",
+        "title": "Cantábrico",
+        "image": "/images/artworks/diego-casado-cerezo/cantabrico-diptico.png",
+        "technique": "Fotografía sobre PVC",
+        "dimensions": "200 x 100 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-olvidado",
+        "title": "ESPACIO OLVIDADO",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-olvidado.jpg"
+      },
+      {
+        "id": "diego-casado-cerezo-el-interior-de-un-hombre-solo",
+        "title": "El interior de un hombre solo",
+        "image": "/images/artworks/diego-casado-cerezo/el-interior-de-un-hombre-solo.png",
+        "technique": "Fotografía sobre aluminio",
+        "year": "2005",
+        "dimensions": "120 x 156 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-circular",
+        "title": "ESPACIO CIRCULAR",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-circular.png"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-para-una-sola-vez",
+        "title": "Espacio para una sola vez",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-para-una-sola-vez.jpg",
+        "technique": "Fotografía sobre dibond",
+        "year": "2008",
+        "dimensions": "120 x 156 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-oculto-1",
+        "title": "“Espacio oculto”",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-oculto.jpg",
+        "technique": "Fotografía color sobre dibond",
+        "year": "2008",
+        "dimensions": "156 x 120 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-cantabrico-1",
+        "title": "“Cantábrico”",
+        "image": "/images/artworks/diego-casado-cerezo/cantabrico-diptico.jpg",
+        "technique": "Fotografía sobre PVC",
+        "dimensions": "200 x 100 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-el-interior-de-un-hombre-solo-1",
+        "title": "“El interior de un hombre solo”",
+        "image": "/images/artworks/diego-casado-cerezo/el-interior-de-un-hombre-solo.jpg",
+        "technique": "Fotografía sobre aluminio",
+        "year": "2005",
+        "dimensions": "120 x 156 centímetros"
+      },
+      {
+        "id": "diego-casado-cerezo-espacio-circular-1",
+        "title": "ESPACIO CIRCULAR",
+        "image": "/images/artworks/diego-casado-cerezo/espacio-circular.jpg"
+      }
+    ]
+  },
+  {
+    "id": "francisco-reina",
+    "name": "FRANCISCO REINA",
+    "biography": "Francisco Reina (Sevilla, 1979). Fotógrafo contemporáneo formado en Bellas Artes (Sevilla) y dirección de fotografía (EFTI, Madrid). Su obra, que explora estados alterados de percepción y la memoria, ha sido exhibida internacionalmente en galerías de Rotterdam, Nueva York y Ámsterdam. Ha participado en festivales como Noorderlicht y Naarden (Holanda) y en ferias como Estampa y ArteSantander. Ganador del VIII Premio Purificación García.",
+    "works": [
+      {
+        "id": "francisco-reina-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/francisco-reina/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "fernando-bayona",
+    "name": "FERNANDO BAYONA",
+    "biography": "Fernando Bayona (Montizón, Jaén, 1980). Fotógrafo y artista visual formado en Bellas Artes (Granada) y Fotografía (NABA, Milán). Su obra, de marcado carácter escenográfico y narrativo, recrea tableaux vivants cargados de simbolismo, ironía y referencias al imaginario religioso y circense. Ha participado en PhotoEspaña y SegoviaFoto, exponiendo internacionalmente en Suiza, EE.UU. y Holanda. Ha recibido múltiples becas y reconocimientos por su singular universo visual.",
+    "works": [
+      {
+        "id": "fernando-bayona-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/fernando-bayona/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "enrique-larroy",
+    "name": "ENRIQUE LARROY",
+    "biography": "Enrique Larroy (Zaragoza, 1954). Artista autodidacta con una consolidada trayectoria desde 1973. Becario de la Casa de Velázquez en Madrid (1992-94) y de la Academia Española de Bellas Artes de Roma (1994-95). En 1999 fue ganador del prestigioso XV Premio de Pintura L'Oréal. Su pintura se mueve entre la figuración pop y el realismo irónico, con una paleta vibrante y composiciones que juegan con la percepción del espectador. Ha participado en ferias internacionales como ARCO, ArtSantander, Art Toronto y Art Miami.",
+    "works": [
+      {
+        "id": "enrique-larroy-sin-titulo",
+        "title": "“Sin Título”",
+        "image": "/images/artworks/enrique-larroy/2-obra.jpg",
+        "technique": "Óleo sobre papel",
+        "year": "2001",
+        "dimensions": "35 x 50 centímetros (sin marco) / 45 x 60 centímetros (con marco)"
+      },
+      {
+        "id": "enrique-larroy-sin-titulo-1",
+        "title": "“Sin Título”",
+        "image": "/images/artworks/enrique-larroy/1-obra.jpg",
+        "technique": "Óleo sobre papel",
+        "year": "2001",
+        "dimensions": "35 x 50 centímetros (sin marco) / 45 x 60 centímetros (con marco)"
+      }
+    ]
+  },
+  {
+    "id": "isabel-tallos",
+    "name": "ISABEL TALLOS",
+    "biography": "Isabel Tallos (Madrid, 1983). Artista visual y fotógrafa. Licenciada en Bellas Artes (UCM), Máster en Fotografía (EFTI) y becaria Roberto Villagraz. Su obra combina fotografía, pintura y nuevas tecnologías para explorar la percepción del espacio y la identidad. Ha recibido formación de Daniel Canogar y Antonio López García. Ha expuesto en Alemania, República Checa y diversas salas españolas, consolidando un lenguaje visual profundamente contemporáneo.",
+    "works": [
+      {
+        "id": "isabel-tallos-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/isabel-tallos/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guillermo-mora",
+    "name": "GUILLERMO MORA",
+    "biography": "Guillermo Mora (Alcalá de Henares, 1980). Artista contemporáneo español cuya práctica desafía los límites de la pintura expandiéndola al espacio tridimensional. Trabaja con acrílicos, pigmentos y materiales industriales para crear obras escultóricas que cuestionan la naturaleza del cuadro. Ganador del Premio Generaciones (2013), ha expuesto en el CA2M, Matadero Madrid y en ferias como ARCO y Art Basel Miami.",
+    "works": [
+      {
+        "id": "guillermo-mora-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/guillermo-mora/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "eva-lootz",
+    "name": "EVA LOOTZ",
+    "biography": "Eva Lootz (Viena, 1940). Artista plástica austriaca afincada en España desde 1967. Formada en Bellas Artes, Filosofía y Dirección de Cine, su obra abarca escultura, instalación, dibujo y vídeo. Trabaja con materiales como mercurio, arena y sal, creando piezas post-minimal de profunda carga poética. Premio Nacional de Artes Plásticas (1994), ha expuesto en la Fundación Joan Miró, CGAC y el Museo de Arte Moderno de Bogotá. Su obra integra las principales colecciones públicas españolas.",
+    "works": [
+      {
+        "id": "eva-lootz-el-que-no-oye-la-que-no-ve",
+        "title": "“El que no oye, la que no ve”",
+        "image": "/images/artworks/eva-lootz/el-que-no-oye-la-que-no-ve-fotografia.jpg",
+        "technique": "Fotografía al gelatinobromuro de plata sobre papel",
+        "year": "1994",
+        "dimensions": "44 x 61 centímetros"
+      },
+      {
+        "id": "eva-lootz-simbolon-decia-f",
+        "title": "“Simbolón decía F",
+        "image": "/images/artworks/eva-lootz/simbolon-decia-fc-fotografia.jpg",
+        "technique": "Fotografía en blanco y negro",
+        "year": "1994",
+        "dimensions": "61 x 39,5 centímetros (sin marco)"
+      }
+    ]
+  },
+  {
+    "id": "gino-rubert",
+    "name": "GINO RUBERT",
+    "biography": "Gino Rubert (México, 1969). Artista hispano-mexicano formado en Parsons (Nueva York) y Bellas Artes (Barcelona). Su obra, que abarca pintura, escultura, dibujo y vídeo, conjuga un figurativismo exquisito con una atmósfera onírica y sensual de raíz literaria. Ganador del Premio de Pintura Joven de la Sala Parés (1993), sus ilustraciones para la trilogía 'Millennium' de Stieg Larsson le dieron reconocimiento mundial. Ha expuesto en Tokio, Berlín, Nueva York y Roma.",
+    "works": [
+      {
+        "id": "gino-rubert-sin-titulo-1",
+        "title": "Sin Título",
+        "image": "/images/artworks/gino-rubert/sin-titulo.jpg",
+        "year": "1993",
+        "images": [
+          "/images/artworks/gino-rubert/sin-titulo-n2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jesus-otero-yglesias",
+    "name": "JESÚS OTERO-YGLESIAS",
+    "biography": "Jesús Otero-Yglesias (Lugo, 1963). Artista personal e inconfundible, su peculiar paisajismo mezcla influencias surrealistas (Magritte) con una lírica idealización de la naturaleza gallega. Becado por la Fundación Miró y Sargadelos, ha expuesto desde 1986 en España, Francia, Bélgica, Alemania, Japón y Portugal. Participó en la Bienal de Pontevedra y la Mostra Unión Fenosa. Su obra está en los principales museos gallegos y colecciones internacionales.",
+    "works": [
+      {
+        "id": "jesus-otero-yglesias-brigitte-bardot-y-las-ranas",
+        "title": "Brigitte Bardot y las ranas",
+        "image": "/images/artworks/jesus-otero-yglesias/brigitte-bardot-y-las-ranas-grabado.png",
+        "technique": "Grabado",
+        "dimensions": "•\tMarco: 38 x 32 centímetros"
+      },
+      {
+        "id": "jesus-otero-yglesias-tendedero-xiv-museum-85",
+        "title": "“Tendedero XIV – Museum 85”",
+        "image": "/images/artworks/jesus-otero-yglesias/museum-85-tendedero-xiv.png",
+        "technique": "Óleo sobre lienzo",
+        "year": "1998",
+        "dimensions": "45 x 45 cms"
+      },
+      {
+        "id": "jesus-otero-yglesias-flandes",
+        "title": "FLANDES",
+        "image": "/images/artworks/jesus-otero-yglesias/flandes.png",
+        "year": "1987"
+      },
+      {
+        "id": "jesus-otero-yglesias-museum-134-cementerio-vi",
+        "title": "“Museum # 134, Cementerio VI”",
+        "image": "/images/artworks/jesus-otero-yglesias/museum-134-cementerio-vi.jpg",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "cms"
+      },
+      {
+        "id": "jesus-otero-yglesias-brigitte-bardot-y-las-ranas-1",
+        "title": "Brigitte Bardot y las ranas",
+        "image": "/images/artworks/jesus-otero-yglesias/brigitte-bardot-y-las-ranas-grabado.jpg",
+        "technique": "Grabado",
+        "dimensions": "•\tMarco: 38 x 32 centímetros",
+        "images": [
+          "/images/artworks/jesus-otero-yglesias/brigitte-bardot-y-las-ranas-grabado-n2.jpg",
+          "/images/artworks/jesus-otero-yglesias/brigitte-bardot-y-las-ranas-grabado-n3.jpg",
+          "/images/artworks/jesus-otero-yglesias/brigitte-bardot-y-las-ranas-grabado-n4.jpg",
+          "/images/artworks/jesus-otero-yglesias/brigitte-bardot-y-las-ranas-grabado-n5.jpg"
+        ]
+      },
+      {
+        "id": "jesus-otero-yglesias-museum-116",
+        "title": "“MUSEUM #116",
+        "image": "/images/artworks/jesus-otero-yglesias/museum-116-masticacion-del-amarillo.jpg",
+        "technique": "Óleo sobre lienz o",
+        "dimensions": "33 x 33 cms"
+      },
+      {
+        "id": "jesus-otero-yglesias-serotonina-sustancia-verde",
+        "title": "SEROTONINA - Sustancia Verde",
+        "image": "/images/artworks/jesus-otero-yglesias/serotonina-sustancia-verde.jpg",
+        "year": "1987"
+      },
+      {
+        "id": "jesus-otero-yglesias-museum351",
+        "title": "“Museum#351",
+        "image": "/images/artworks/jesus-otero-yglesias/museum-351-pequena-animacion-ii.jpg",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "46 x 38 cms"
+      },
+      {
+        "id": "jesus-otero-yglesias-flandes-1",
+        "title": "FLANDES",
+        "image": "/images/artworks/jesus-otero-yglesias/flandes.jpg",
+        "year": "1987"
+      }
+    ]
+  },
+  {
+    "id": "francisco-otero-besteiro",
+    "name": "FRANCISCO OTERO BESTEIRO",
+    "biography": "Francisco Otero Besteiro. Pintor y acuarelista gallego, cuya obra destaca por la delicadeza de su trazo y una poética intimista aplicada al retrato, las figuras marineras y los paisajes. Su técnica de acuarela sobre papel, de formato reducido, alcanza una expresividad notable. Representado en colecciones privadas y galerías de Galicia.",
+    "works": [
+      {
+        "id": "francisco-otero-besteiro-cabeza-de-navegante",
+        "title": "“Cabeza de navegante”",
+        "image": "/images/artworks/francisco-otero-besteiro/sin-titulo.jpg",
+        "technique": "Acuarela sobre papel",
+        "year": "1979",
+        "dimensions": "9 x 6,5 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "ismael-iglesias-serrano",
+    "name": "ISMAEL IGLESIAS SERRANO",
+    "biography": "Ismael Iglesias Serrano (Durango, 1974). Licenciado en Bellas Artes (UPV) en Pintura y Audiovisuales. Formado en los talleres de Juan Uslé (Botín) y Markus Lüpertz. Su obra fusiona pintura, nuevas tecnologías y medios digitales, creando paisajes hipnóticos y vibrantes que dialogan con la cultura visual contemporánea. Ha expuesto en la Delfina Foundation (Londres), Galería ADN (Barcelona), CAFAM (Beijing) y en múltiples espacios nacionales.",
+    "works": [
+      {
+        "id": "ismael-iglesias-serrano-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/ismael-iglesias-serrano/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "eulalia-valdosera",
+    "name": "EULÀLIA VALDOSERA",
+    "biography": "Eulàlia Valdosera (Vilafranca del Penedès, 1963). Artista conceptual y pionera del arte feminista en España, trabaja con fotografía, vídeo, instalación y performance. Su obra explora el cuerpo femenino, la identidad y las relaciones de poder a través de proyecciones lumínicas y sombras. Representó a España en la Bienal de Venecia (2001). Galardonada con el Premio Nacional de Artes Plásticas (2002), su obra pertenece al MNCARS, MACBA y Centre Pompidou.",
+    "works": [
+      {
+        "id": "eulalia-valdosera-tors-frontal-xarxa-el-melic-del-mon-187",
+        "title": "“Tors, frontal (xarxa), El Melic del Món #187”",
+        "image": "/images/artworks/eulalia-valdosera/el-melic-del-mon-187-tinta.jpg",
+        "technique": "Tinta china sobre papel acuarela",
+        "dimensions": "50 x 35 centímetros"
+      },
+      {
+        "id": "eulalia-valdosera-las-tres-marias-o-virgen-del-aire-del-fuego-y-del-agua-velos-plasticos-30-29-28",
+        "title": "“Las tres Marías o Virgen del Aire, del Fuego y del Agua (Velos plásticos #30, #29, #28)”",
+        "image": "/images/artworks/eulalia-valdosera/las-tres-marias-fotografia.png",
+        "technique": "Tríptico fotográfico",
+        "dimensions": "30 x 40 centímetros c/u (imagen: 26 x 18,50 centímetros, con margen blanco)"
+      }
+    ]
+  },
+  {
+    "id": "hector-orruno",
+    "name": "HÉCTOR ORRUÑO",
+    "biography": "Héctor Orruño (Vitoria, 1980). Licenciado en Bellas Artes por la Universidad del País Vasco, con formación en el taller de Juan Uslé (Fundación Botín). Su obra pictórica explora la tensión entre lo orgánico y lo tecnológico, con composiciones cromáticamente potentes. Ganador del Premio Generación 2004 (Caja Madrid) y del Primer Premio del Certamen de Pintura de Amurrio. Ha expuesto en Montehermoso (Vitoria) y en La Fresh Gallery (Madrid).",
+    "works": [
+      {
+        "id": "hector-orruno-tierra-de-nadie",
+        "title": "Tierra de nadie",
+        "image": "/images/artworks/hector-orruno/tierra-de-nadie.jpg",
+        "technique": "Mixta sobre lienzo",
+        "year": "2004",
+        "dimensions": "200 x 200 cms"
+      },
+      {
+        "id": "hector-orruno-render-croma",
+        "title": "Render Croma",
+        "image": "/images/artworks/hector-orruno/render-croma.png",
+        "technique": "Mixta sobre lienzo",
+        "year": "2006",
+        "dimensions": "100 x 100 cms"
+      },
+      {
+        "id": "hector-orruno-comunicativos",
+        "title": "Comunicativos",
+        "image": "/images/artworks/hector-orruno/comunicativos.jpg",
+        "technique": "Mixta sobre lienzo",
+        "year": "2003",
+        "dimensions": "150 x 150 cms"
+      }
+    ]
+  },
+  {
+    "id": "iago-eireos",
+    "name": "IAGO EIREOS",
+    "biography": "Iago Eireos (Lugo, 1980). Licenciado en Bellas Artes por la Universidad de Vigo y técnico superior en Grabado y Fotografía Artística. Su obra explora la memoria del paisaje a través de técnicas mixtas, fotografía e instalación, creando capas de significado sobre territorios transformados. Ha expuesto individualmente en la Fundación Antonio Gala, el Centro Cultural de Ourense y galerías de Florencia y Barcelona. Su trabajo itineró por España, Portugal e Italia.",
+    "works": [
+      {
+        "id": "iago-eireos-umbra-alba",
+        "title": "“Umbra Alba”",
+        "image": "/images/artworks/iago-eireos/umbra-alba.jpg",
+        "technique": "Fotografía sobre aluminio",
+        "dimensions": "136 x 75 cms"
+      },
+      {
+        "id": "iago-eireos-semafosforo",
+        "title": "“Semafósforo”",
+        "image": "/images/artworks/iago-eireos/infraleves-semafosforo.jpg",
+        "technique": "Fotografía sobre aluminio",
+        "dimensions": "114 x 75 cms"
+      }
+    ]
+  },
+  {
+    "id": "florencio-alonso",
+    "name": "FLORENCIO ALONSO",
+    "biography": "Florencio Alonso (Estella, Navarra, 1961). Artista navarro cuya obra transita entre la pintura, la instalación y el videoarte. Su producción reflexiona sobre la memoria colectiva, el silencio y las víctimas. Ha expuesto en el Museo Jorge Oteiza, el Museo de Navarra y el Parlamento Europeo de Bruselas. Participó en ARCO con la Galería Moisés Pérez de Albéniz y en DIVA (Nueva York). Su obra está en la colección del Museo de Navarra.",
+    "works": [
+      {
+        "id": "florencio-alonso-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/florencio-alonso/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "german-gomez",
+    "name": "GERMÁN GÓMEZ",
+    "biography": "Germán Gómez. Artista visual español de amplia proyección internacional. Su obra fotográfica y pictórica explora la identidad, el cuerpo y las fronteras entre lo real y lo ficticio. Ha expuesto individualmente en el Centro Niemeyer, PhotoEspaña, la Bienal de Alejandría y galerías de Bogotá, Filadelfia, Bielefeld y Miami. Participante habitual en ARCO, su trabajo ha sido reconocido con el Premio Revelación PhotoEspaña.",
+    "works": [
+      {
+        "id": "german-gomez-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/german-gomez/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "javier-pagola",
+    "name": "JAVIER PAGOLA",
+    "biography": "Javier Pagola (San Sebastián, 1955). Dibujante y pintor que ha hecho del dibujo su principal arma creativa, inspirándose en El Bosco, Antonio Saura y el expresionismo. Su universo de seres extraños combina lo grotesco con lo poético. Becado por la Academia de Roma y la Fundación Botín, ha ganado el Premio Ciudad de Albacete y el Internacional de Valdepeñas. Ha ilustrado más de quince libros y su obra está en museos españoles y la Fundación de Menil (Houston).",
+    "works": [
+      {
+        "id": "javier-pagola-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/javier-pagola/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "felicidad-moreno",
+    "name": "FELICIDAD MORENO",
+    "biography": "Felicidad Moreno (Madrid, 1959). Artista plástica española cuya obra se enmarca en la abstracción lírica contemporánea. Trabaja principalmente con técnica mixta sobre papel, creando composiciones de gran expresividad gestual y cromática. Su pintura explora las tensiones entre forma y vacío, luz y materia. Ha expuesto en galerías y centros de arte de Madrid y su obra integra colecciones privadas nacionales.",
+    "works": [
+      {
+        "id": "felicidad-moreno-sin-titulo",
+        "title": "“Sin Título”",
+        "image": "/images/artworks/felicidad-moreno/sin-titulo.png",
+        "technique": "Mixta sobre papel",
+        "year": "1987",
+        "dimensions": "68 x 48 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "fernando-yanez",
+    "name": "FERNANDO YÁÑEZ",
+    "biography": "Fernando Yáñez (Lugo, 1978). Licenciado en Bellas Artes por la Universidad de Vigo y MFA por la Complutense. Su pintura se caracteriza por atmósferas densas y silenciosas que evocan espacios de vacío y espiritualidad. Series como 'Requiem' y 'Lares' exploran la luz como materia expresiva. Ha expuesto individualmente en el Museo Provincial de Lugo y en galerías de Madrid y Galicia, participando en ferias como ArteSantander.",
+    "works": [
+      {
+        "id": "fernando-yanez-requiem-1",
+        "title": "Requiem # 1",
+        "image": "/images/artworks/fernando-yanez/requiem-1.png",
+        "technique": "Mixta sobre lienzo",
+        "year": "2002",
+        "dimensions": "150 x 150 centímetros"
+      },
+      {
+        "id": "fernando-yanez-lares-xlii",
+        "title": "Lares # XLII ”",
+        "image": "/images/artworks/fernando-yanez/lares-xlii.png",
+        "technique": "Mixta sobre lienzo",
+        "year": "2007",
+        "dimensions": "120 x 60 centímetros"
+      },
+      {
+        "id": "fernando-yanez-requiem-2",
+        "title": "REQUIEM # 2",
+        "image": "/images/artworks/fernando-yanez/requiem-2.png"
+      }
+    ]
+  },
+  {
+    "id": "hannah-collins",
+    "name": "HANNAH COLLINS",
+    "biography": "Hannah Collins (Londres, 1956). Fotógrafa y artista visual británica de reconocimiento internacional. Su obra, frecuentemente en gran formato, documenta espacios abandonados, paisajes humanos y la huella del tiempo sobre la materia. Trabaja con gelatina de plata y técnicas analógicas. Ha expuesto en la Tate Modern, el Centre Pompidou y el MACBA. Finalista del Turner Prize (1993), su obra pertenece a las más importantes colecciones de arte contemporáneo.",
+    "works": [
+      {
+        "id": "hannah-collins-food",
+        "title": "“FOOD”",
+        "image": "/images/artworks/hannah-collins/sin-titulo.jpg",
+        "technique": "Fotografía en gelatina de plata",
+        "year": "1994",
+        "dimensions": "174 x 130 centímetros",
+        "images": [
+          "/images/artworks/hannah-collins/sin-titulo-n2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fernando-sanchez-calderon",
+    "name": "FERNANDO SÁNCHEZ CALDERÓN",
+    "biography": "Fernando Sánchez Calderón (Valladolid, 1951 – 2016). Pintor y docente universitario. Licenciado en Bellas Artes (Madrid, 1975), representó a España en la XVI Bienal de São Paulo (1977) y participó en la III Bienal del Cairo (1988). Compaginó su producción artística con la docencia en la Universidad de Salamanca. Su obra, que transita entre la abstracción geométrica y la investigación matérica, está presente en el MNCARS, el Congreso de los Diputados y el MACUF.",
+    "works": [
+      {
+        "id": "fernando-sanchez-calderon-plaza-hotel-ny",
+        "title": "Plaza Hotel NY”",
+        "image": "/images/artworks/fernando-sanchez-calderon/plaza-hotel-ny.jpg",
+        "technique": "Mixta sobre lienzo",
+        "year": "1992",
+        "dimensions": "195 x 97 centímetros"
+      },
+      {
+        "id": "fernando-sanchez-calderon-tablero-fragmentado",
+        "title": "Tablero fragmentado”",
+        "image": "/images/artworks/fernando-sanchez-calderon/tablero-fragmentado.jpg",
+        "technique": "Mixta sobre tela",
+        "year": "1994",
+        "dimensions": "195 x 130 centímetros"
+      },
+      {
+        "id": "fernando-sanchez-calderon-lacado-en-blanco",
+        "title": "Lacado en blanco”",
+        "image": "/images/artworks/fernando-sanchez-calderon/lacado-en-blanco.jpg",
+        "technique": "Mixta sobre lienzo",
+        "year": "1994",
+        "dimensions": "100 x 65 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "gonzalo-perez-mata",
+    "name": "GONZALO PÉREZ MATA",
+    "biography": "Gonzalo Pérez Mata. Fotógrafo contemporáneo español. Máster en Fotografía (EFTI) y Licenciado en Comunicación Audiovisual (CEU). Su obra explora el paisaje urbano y la condición humana a través de una mirada documental y poética. Ha expuesto en el IVAM, el Círculo de Bellas Artes de Madrid, Dubái y el Palacio de Minería de México. Su obra está representada en la colección del IVAM.",
+    "works": [
+      {
+        "id": "gonzalo-perez-mata-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/gonzalo-perez-mata/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "enrique-martinez-cubells",
+    "name": "ENRIQUE MARTÍNEZ CUBELLS",
+    "biography": "Enrique Martínez Cubells (Madrid, 1874 - Málaga, 1947). Pintor español, hijo del también pintor Salvador Martínez Cubells, restaurador del Museo del Prado. Formado en la Real Academia de Bellas Artes de San Fernando, destacó como retratista, paisajista y pintor de escenas costumbristas. Su estilo, de factura académica y luminista, conecta con la tradición pictórica española del cambio de siglo. Su obra está representada en museos y colecciones institucionales.",
+    "works": [
+      {
+        "id": "enrique-martinez-cubells-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/enrique-martinez-cubells/sin-titulo.png"
+      }
+    ]
+  },
+  {
+    "id": "jose-otero-abeledo-l-a-x-e-i-r-o",
+    "name": "JOSÉ OTERO ABELEDO - L A X E I R O",
+    "biography": "José Otero Abeledo 'Laxeiro' (Lalín, 1908 - Vigo, 1996). Figura clave de la vanguardia artística gallega junto a Seoane, Colmeiro y Maside. Casi autodidacta, emigró a Cuba y Buenos Aires, donde desarrolló el grueso de su carrera. Su pintura fusiona modernidad y tradición, con un folklorismo esperpéntico cargado de ironía y fantasía. Galardonado con la Medalla Castelao y la Medalla de Oro de Vigo. Cuenta con Fundación propia y representación en todos los museos de Galicia.",
+    "works": [
+      {
+        "id": "jose-otero-abeledo-l-a-x-e-i-r-o-laxeiro-desnudo-masculino",
+        "title": "LAXEIRO - Desnudo masculino",
+        "image": "/images/artworks/jose-otero-abeledo-l-a-x-e-i-r-o/laxeiro-desnudo-masculino.jpg",
+        "year": "1955",
+        "images": [
+          "/images/artworks/jose-otero-abeledo-l-a-x-e-i-r-o/laxeiro-desnudo-masculino-n2.jpg",
+          "/images/artworks/jose-otero-abeledo-l-a-x-e-i-r-o/laxeiro-desnudo-masculino-n3.jpg"
+        ]
+      },
+      {
+        "id": "jose-otero-abeledo-l-a-x-e-i-r-o-apunte",
+        "title": "Apunte",
+        "image": "/images/artworks/jose-otero-abeledo-l-a-x-e-i-r-o/laxeiro-apunte.png",
+        "technique": "Tinta negra a pluma y aguada sobre papel",
+        "year": "1969",
+        "dimensions": "15 x 10 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "jose-manuel-ballester",
+    "name": "JOSÉ MANUEL BALLESTER",
+    "biography": "José Manuel Ballester (Madrid, 1960). Pintor y fotógrafo, Premio Nacional de Fotografía (2010). Su obra explora la arquitectura, el espacio vacío y la luz como protagonistas silenciosos. Formado en Bellas Artes (UCM) y becado en Roma, sus fotografías de gran formato reinterpretan obras maestras de la pintura eliminando las figuras humanas. Ha expuesto en el MNCARS, IVAM, Museo Thyssen y en ferias como ARCO y Art Basel.",
+    "works": [
+      {
+        "id": "jose-manuel-ballester-arquitectura",
+        "title": "“Arquitectura”",
+        "image": "/images/artworks/jose-manuel-ballester/sin-titulo.jpg",
+        "technique": "Tinta sobre papel",
+        "year": "1998",
+        "dimensions": "29 x 19 centímetros (sin marco)"
+      }
+    ]
+  },
+  {
+    "id": "jose-artiaga",
+    "name": "JOSÉ ARTIAGA",
+    "biography": "José Artiaga. Artista contemporáneo español cuya obra pictórica se enmarca en una exploración personal de la abstracción y la materia. Su trabajo destaca por la intensidad cromática y una gestualidad contenida que dialoga con la tradición expresionista española. Ha participado en diversas muestras colectivas e individuales en galerías nacionales.",
+    "works": [
+      {
+        "id": "jose-artiaga-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/jose-artiaga/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jose-noguero",
+    "name": "JOSÉ NOGUERO",
+    "biography": "José Noguero. Artista visual contemporáneo español. Su obra explora las tensiones entre figuración y abstracción a través de un lenguaje pictórico personal y depurado. Su producción destaca por la sutileza compositiva y el uso expresivo del color, consolidando una trayectoria reconocida en el circuito de galerías de arte contemporáneo.",
+    "works": [
+      {
+        "id": "jose-noguero-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/jose-noguero/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jorge-perianes",
+    "name": "JORGE PERIANES",
+    "biography": "Jorge Perianes (Orense, 1974). Artista multidisciplinar gallego cuya obra abarca escultura, instalación, dibujo y vídeo. Su trabajo, de marcado carácter conceptual y poético, reflexiona sobre la fragilidad de las estructuras humanas y la relación con la naturaleza. Ha expuesto en el CGAC, MARCO de Vigo, Centro Huarte y en bienales internacionales. Su obra pertenece a colecciones como el MUSAC y la Fundación RAC.",
+    "works": [
+      {
+        "id": "jorge-perianes-",
+        "title": "”",
+        "image": "/images/artworks/jorge-perianes/sin-titulo.jpg",
+        "year": "2007"
+      }
+    ]
+  },
+  {
+    "id": "joan-cabrer",
+    "name": "JOAN CABRER",
+    "biography": "Joan Cabrer (Mallorca). Artista mallorquín cuya obra pictórica se caracteriza por un uso audaz del color y la gestualidad. Su pintura, entre la figuración expresionista y la abstracción lírica, refleja la luz y el paisaje mediterráneo tamizados por una sensibilidad contemporánea. Ha expuesto en galerías de Baleares y la península.",
+    "works": [
+      {
+        "id": "joan-cabrer-sin-titulo",
+        "title": "Sin Título",
+        "image": "/images/artworks/joan-cabrer/sin-titulo.jpg"
+      }
+    ]
+  },
+  {
+    "id": "jose-luis-cremades",
+    "name": "JOSÉ LUIS CREMADES",
+    "biography": "José Luis Cremades. Pintor contemporáneo español. Su obra, resuelta principalmente en acrílico sobre lienzo, se mueve entre la abstracción geométrica y una paleta cromática vibrante. Sus composiciones equilibran rigor formal y expresividad, creando atmósferas contemplativas de gran impacto visual. Ha expuesto en galerías y centros de arte nacionales.",
+    "works": [
+      {
+        "id": "jose-luis-cremades-tibieza",
+        "title": "Tibieza",
+        "image": "/images/artworks/jose-luis-cremades/sin-titulo.jpg",
+        "technique": "Acrílico sobre lienzo",
+        "year": "2010",
+        "dimensions": "70 x 70 centímetros"
+      }
+    ]
+  },
+  {
+    "id": "jorge-castillo-casalderrey",
+    "name": "JORGE CASTILLO CASALDERREY",
+    "biography": "Jorge Castillo (Pontevedra, 1933). Figura capital del arte contemporáneo español. Autodidacta, emigró a Buenos Aires donde inició su carrera. Desde los años 60 expone internacionalmente en París, Nueva York y Berlín. Su estilo, de una figuración onírica y expresionista, abarca pintura, dibujo, grabado y escultura. Ha expuesto en el MoMA, Fundación Miró y el CGAC. Su obra pertenece al MNCARS, Guggenheim y múltiples museos europeos.",
+    "works": [
+      {
+        "id": "jorge-castillo-casalderrey-el-androgino-de-la-edad-de-oro",
+        "title": "“El Andrógino de la edad de oro”",
+        "image": "/images/artworks/jorge-castillo-casalderrey/el-androgino-de-la-edad-de-oro-oleo.jpg",
+        "technique": "Técnica mixta",
+        "year": "1985",
+        "dimensions": "65 x 54 centímetros (sin marco)",
+        "images": [
+          "/images/artworks/jorge-castillo-casalderrey/el-androgino-de-la-edad-de-oro-oleo-n2.jpg"
+        ]
+      },
+      {
+        "id": "jorge-castillo-casalderrey-sin-titulo-litografia",
+        "title": "SIN TÍTULO - Litografía",
+        "image": "/images/artworks/jorge-castillo-casalderrey/sin-titulo-litografia.jpg",
+        "technique": "Litografía sobre papel Archés",
+        "year": "1978",
+        "dimensions": "•\tPAPEL: 66 x 56 centímetros"
+      },
+      {
+        "id": "jorge-castillo-casalderrey-marienza-y-el-pajaro",
+        "title": "Marienza y el pájaro",
+        "image": "/images/artworks/jorge-castillo-casalderrey/marienza-y-el-pajaro-aguafuerte.jpg",
+        "technique": "Aguafuerte sobre papel Archés",
+        "year": "1977",
+        "dimensions": "•\tPAPEL: 65 x 45 centímetros"
+      },
+      {
+        "id": "jorge-castillo-casalderrey-el-hombre-de-los-mandados",
+        "title": "“El hombre de los mandados”",
+        "image": "/images/artworks/jorge-castillo-casalderrey/el-hombre-de-los-mandados-acuarela.png",
+        "technique": "Lápiz violeta y acuarela",
+        "year": "1972",
+        "dimensions": "32 x 24 cms"
+      },
+      {
+        "id": "jorge-castillo-casalderrey-bodegon",
+        "title": "Bodegón",
+        "image": "/images/artworks/jorge-castillo-casalderrey/bodegon-aguafuerte.jpg",
+        "technique": "Grabado",
+        "year": "1991",
+        "dimensions": "•\tPAPEL: 132 x 100 centímetros",
+        "images": [
+          "/images/artworks/jorge-castillo-casalderrey/bodegon-aguafuerte-n2.jpg",
+          "/images/artworks/jorge-castillo-casalderrey/bodegon-aguafuerte-n3.jpg"
+        ]
+      },
+      {
+        "id": "jorge-castillo-casalderrey-vasos-frutas-y-cabeza",
+        "title": "“Vasos, frutas y cabeza”",
+        "image": "/images/artworks/jorge-castillo-casalderrey/vasos-frutas-y-cabeza-acrilico-sobre-tablex.png",
+        "technique": "Acrílico",
+        "year": "1985",
+        "dimensions": "54 x 65 centímetros (sin marco)"
+      },
+      {
+        "id": "jorge-castillo-casalderrey-dibujo-dedicado-tinta",
+        "title": "DIBUJO DEDICADO - Tinta",
+        "image": "/images/artworks/jorge-castillo-casalderrey/dibujo-dedicado-tinta.jpg",
+        "technique": "del grabado, que será finalmente su principal medio de expresión, aunque lo alternará con la pintura"
+      }
+    ]
+  },
+  {
+    "id": "jose-maria-diaz-maroto",
+    "name": "JOSÉ MARÍA DÍAZ - MAROTO",
+    "biography": "José María Díaz-Maroto (Madrid, 1957). Fotógrafo artístico español especializado en la captación del paisaje urbano y la arquitectura con un lenguaje poético y documental. Sus series sobre La Habana ('Malecón', 'Parque Central', 'Habana Vieja') destacan por su composición serena y la textura del papel baritado. Sus fotografías, en ediciones limitadas, se encuentran en colecciones privadas nacionales e internacionales.",
+    "works": [
+      {
+        "id": "jose-maria-diaz-maroto-parque-central",
+        "title": "“Parque Central”",
+        "image": "/images/artworks/jose-maria-diaz-maroto/parque-central.jpg",
+        "technique": "•\tPROCESO: Gelatina de plata",
+        "dimensions": "75 x 110 centímetros (papel)"
+      },
+      {
+        "id": "jose-maria-diaz-maroto-habana-vieja",
+        "title": "“Habana vieja”",
+        "image": "/images/artworks/jose-maria-diaz-maroto/habana-vieja.jpg",
+        "technique": "•\tPROCESO: Gelatina de plata",
+        "dimensions": "75 x 110 centímetros (papel)"
+      },
+      {
+        "id": "jose-maria-diaz-maroto-malecon",
+        "title": "“Malecón”",
+        "image": "/images/artworks/jose-maria-diaz-maroto/el-guino-del-dolar.jpg",
+        "technique": "Fotografía sobre papel baritado",
+        "year": "2006",
+        "dimensions": "75 x 110 centímetros (papel)",
+        "images": [
+          "/images/artworks/jose-maria-diaz-maroto/el-guino-del-dolar-n2.jpg",
+          "/images/artworks/jose-maria-diaz-maroto/el-guino-del-dolar-n3.jpg",
+          "/images/artworks/jose-maria-diaz-maroto/el-guino-del-dolar-n4.jpg",
+          "/images/artworks/jose-maria-diaz-maroto/el-guino-del-dolar-n5.jpg"
+        ]
+      },
+      {
+        "id": "jose-maria-diaz-maroto-malecon-1",
+        "title": "“Malecón”",
+        "image": "/images/artworks/jose-maria-diaz-maroto/malecon.jpg",
+        "technique": "•\tPROCESO: Gelatina de plata",
+        "dimensions": "75 x 110 centímetros (papel)",
+        "images": [
+          "/images/artworks/jose-maria-diaz-maroto/malecon-n2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jose-manuel-ciria",
+    "name": "JOSÉ MANUEL CIRIA",
+    "biography": "José Manuel Ciria (Manchester, 1960). Figura central de la pintura abstracta española contemporánea. Becado en París y Roma, su obra es una constante investigación sobre el gesto, el color y la mancha. Ha expuesto en la Galería Tretyakov (Moscú), el IVAM, el Museo Nacional de Buenos Aires y el Museo de Arte de Chile. Galardonado con la Medalla de Oro de la V Bienal de El Cairo, su producción integra las más importantes colecciones internacionales.",
+    "works": [
+      {
+        "id": "jose-manuel-ciria-litografia-sobre-suenos-construidos-ii",
+        "title": "LITOGRAFÍA - Sobre sueños construidos II",
+        "image": "/images/artworks/jose-manuel-ciria/litografia-sobre-suenos-construidos-ii.jpg",
+        "technique": "Litografía sobre papel",
+        "dimensions": "•\tMarco: ……"
+      },
+      {
+        "id": "jose-manuel-ciria-bosque-iv",
+        "title": "Bosque IV",
+        "image": "/images/artworks/jose-manuel-ciria/bosque-iv-pintura.jpg",
+        "technique": "Técnica mixta sobre lona",
+        "year": "1993",
+        "dimensions": "100 x 81 centímetros"
+      },
+      {
+        "id": "jose-manuel-ciria-grabado",
+        "title": "GRABADO",
+        "image": "/images/artworks/jose-manuel-ciria/grabado.jpg",
+        "technique": "Grabado",
+        "dimensions": "•\tMarco: 74 x 64 cms"
+      },
+      {
+        "id": "jose-manuel-ciria-hoja-de-acacia-guardada-en-el-libro",
+        "title": "Hoja de acacia guardada en el libro",
+        "image": "/images/artworks/jose-manuel-ciria/hoja-de-acacia-guardada-en-el-libro-aguafuerte.jpg",
+        "technique": "Aguafuerte, aguatinta, carborundo y cera",
+        "dimensions": "80 x 60 centímetros"
+      },
+      {
+        "id": "jose-manuel-ciria-hoja-de-acacia-guardada-en-el-libro-1",
+        "title": "Hoja de acacia guardada en el libro",
+        "image": "/images/artworks/jose-manuel-ciria/la-verdad-del-vino-aguafuerte.jpg",
+        "technique": "Aguafuerte, aguatinta, carborundo y cera",
+        "dimensions": "80 x 60 centímetros"
+      },
+      {
+        "id": "jose-manuel-ciria-la-danza",
+        "title": "La danza",
+        "image": "/images/artworks/jose-manuel-ciria/fotografia.jpg",
+        "technique": "Fotografía sobre papel Fujicolor",
+        "dimensions": "38 x 50,5 centímetros"
+      }
+    ]
+  }
+]

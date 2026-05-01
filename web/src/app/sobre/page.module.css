@@ -1,0 +1,221 @@
+.page {
+  padding-top: calc(var(--header-height) + var(--space-4xl));
+  padding-bottom: var(--space-4xl);
+  min-height: 100vh;
+}
+
+.heroSection {
+  max-width: var(--max-width-narrow);
+  margin: 0 auto var(--space-5xl);
+  padding: 0 var(--space-xl);
+  text-align: center;
+}
+
+.pageLabel {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--color-accent);
+  margin-bottom: var(--space-md);
+}
+
+.pageTitle {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: clamp(2.5rem, 5vw, 4rem);
+  color: var(--color-text);
+  line-height: 1.1;
+  margin-bottom: var(--space-lg);
+}
+
+.pageDivider {
+  width: 40px;
+  height: 1px;
+  background-color: var(--color-accent);
+  margin: var(--space-lg) auto;
+}
+
+.heroText {
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: 1.05rem;
+  line-height: 1.8;
+  color: var(--color-text-light);
+  white-space: pre-line;
+}
+
+/* Content Sections */
+.contentSection {
+  max-width: var(--max-width);
+  margin: 0 auto var(--space-5xl);
+  padding: 0 var(--space-xl);
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-4xl);
+  align-items: center;
+}
+
+.contentSection.reverse {
+  direction: rtl;
+}
+
+.contentSection.reverse > * {
+  direction: ltr;
+}
+
+.contentText {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-lg);
+}
+
+.contentTitle {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 2rem;
+  color: var(--color-text);
+  line-height: 1.2;
+}
+
+.contentBody {
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: 0.92rem;
+  line-height: 1.8;
+  color: var(--color-text-light);
+}
+
+.contentImage {
+  aspect-ratio: 4 / 3;
+  background: linear-gradient(135deg, var(--color-bg-warm) 0%, var(--color-border) 100%);
+  overflow: hidden;
+  position: relative;
+}
+
+.contentImage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.contentImageCaption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding: var(--space-md) var(--space-lg);
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.7) 0%, transparent 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.contentImageTitle {
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.contentImageArtist {
+  font-family: var(--font-body);
+  font-weight: 300;
+  font-size: 0.75rem;
+  color: rgba(255, 255, 255, 0.6);
+}
+
+/* Stats Banner */
+.statsBanner {
+  background-color: var(--color-brand-green);
+  padding: var(--space-2xl) 0;
+  margin-bottom: var(--space-5xl);
+}
+
+.statsBannerGrid {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-xl);
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: var(--space-2xl);
+  text-align: center;
+}
+
+.statBannerNumber {
+  font-family: var(--font-display);
+  font-weight: 300;
+  font-size: 3rem;
+  color: var(--color-accent-light);
+  line-height: 1;
+  margin-bottom: var(--space-sm);
+}
+
+.statBannerLabel {
+  font-family: var(--font-body);
+  font-weight: 400;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: rgba(250, 250, 248, 0.5);
+}
+
+/* Techniques */
+.techniquesSection {
+  max-width: var(--max-width-narrow);
+  margin: 0 auto var(--space-5xl);
+  padding: 0 var(--space-xl);
+  text-align: center;
+}
+
+.techniquesGrid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-md);
+  margin-top: var(--space-2xl);
+}
+
+.techniqueTag {
+  padding: var(--space-sm) var(--space-lg);
+  border: 1px solid var(--color-border);
+  font-family: var(--font-body);
+  font-size: 0.85rem;
+  color: var(--color-text-light);
+  transition: all var(--transition-fast);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.techniqueTag:hover {
+  border-color: var(--color-accent);
+  color: var(--color-accent);
+  background: rgba(184, 155, 94, 0.05);
+}
+
+@media (max-width: 768px) {
+  .contentSection {
+    grid-template-columns: 1fr;
+    gap: var(--space-2xl);
+    padding: 0 var(--space-md);
+  }
+
+  .contentSection.reverse {
+    direction: ltr;
+  }
+
+  .heroSection {
+    padding: 0 var(--space-md);
+  }
+
+  .statsBannerGrid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: var(--space-xl);
+    padding: 0 var(--space-md);
+  }
+
+  .techniquesSection {
+    padding: 0 var(--space-md);
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "collectionName": "ArtIuris",
+  "collectionSubtitle": "Art Collection",
+  "description": "Una colección privada que reúne más de 135 artistas del panorama contemporáneo español e internacional, con obras que abarcan pintura, escultura, fotografía, grabado e instalación.",
+  "heroTagline": "Descubre el arte contemporáneo a través de una mirada personal",
+  "contactEmail": "luisdegalicia@yahoo.es",
+  "contactPhone": "+34 679 55 46 80",
+  "contactAddress": "Lugo",
+  "socialMedia": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": ""
+  },
+  "aboutText": "ArtIuris Art Collection nace de la pasión por el arte y el compromiso con la cultura. A lo largo de décadas, se ha ido conformando una colección que reúne a más de 135 artistas, con obras que van desde la pintura y la escultura hasta la fotografía, el grabado y la instalación.\n\nCada obra ha sido seleccionada con criterio y sensibilidad, buscando representar las múltiples voces del arte contemporáneo español e internacional.",
+  "aboutQuote": "El arte es la expresión más pura de la identidad humana",
+  "aboutSections": [
+    {
+      "title": "Una mirada personal al arte contemporáneo",
+      "body": "La colección representa décadas de dedicación y pasión por el arte. Cada obra ha sido seleccionada con criterio, buscando representar las múltiples voces del panorama artístico contemporáneo español e internacional.\n\nDesde la pintura y la escultura hasta la fotografía y el grabado, la colección abarca una amplia variedad de técnicas y estilos que reflejan la riqueza del arte de nuestro tiempo.",
+      "image": "",
+      "workId": "alfonso-costa-beiro-personaje"
+    },
+    {
+      "title": "Compromiso con la cultura",
+      "body": "Más allá de la mera acumulación de obras, esta colección nace del deseo de preservar y difundir el arte contemporáneo. Cada pieza cuenta una historia, cada artista aporta una visión única del mundo que nos rodea.",
+      "image": "",
+      "workId": "antonio-murado-maranas-verde-y-rojo"
+    }
+  ],
+  "stats": {
+    "artists": "135+",
+    "works": "500+",
+    "techniques": "Pintura, Escultura, Fotografía, Grabado, Instalación",
+    "autoUpdate": true
+  },
+  "featuredWorkIds": [],
+  "disciplines": {},
+  "ctaTitle": "",
+  "ctaSubtitle": "Descubre las obras y biografías de cada artista de la colección",
+  "footerDescription": ""
+}
