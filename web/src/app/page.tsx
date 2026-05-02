@@ -35,6 +35,28 @@ function getFeaturedWorks() {
   return allWorks.filter(({ work }) => work.image).slice(0, 6);
 }
 
+// Get works for the About section image grid
+function getAboutWorks() {
+  const allWorks: { artist: Artist; work: Artist["works"][0] }[] = [];
+  for (const artist of typedArtists) {
+    for (const work of artist.works) {
+      if (work.image) allWorks.push({ artist, work });
+    }
+  }
+
+  if (config.aboutWorkIds && config.aboutWorkIds.length > 0) {
+    const selected: typeof allWorks = [];
+    for (const id of config.aboutWorkIds) {
+      const found = allWorks.find(({ work }) => work.id === id);
+      if (found) selected.push(found);
+    }
+    if (selected.length > 0) return selected.slice(0, 2);
+  }
+
+  // Fallback: pick 2 random works
+  return allWorks.slice(0, 2);
+}
+
 // Stats: auto-update or manual
 const statsArtists = config.stats.autoUpdate ? `${totalArtists}` : config.stats.artists;
 const statsWorks = config.stats.autoUpdate ? `${totalWorks}` : config.stats.works;
@@ -42,6 +64,7 @@ const statsDisciplines = config.stats.autoUpdate ? `${allTechniques.size || 5}` 
 
 export default function HomePage() {
   const featuredWorks = getFeaturedWorks();
+  const aboutWorks = getAboutWorks();
   const ctaTitle = config.ctaTitle || `Explora ${statsArtists} artistas`;
   const ctaSubtitle = config.ctaSubtitle || "Descubre las obras y biografías de cada artista de la colección";
 
@@ -155,8 +178,21 @@ export default function HomePage() {
             </Link>
           </div>
           <div className={styles.aboutImageGrid}>
-            <div className={styles.aboutImageItem} />
-            <div className={styles.aboutImageItem} />
+            {aboutWorks.map(({ artist, work }) => (
+              <Link key={work.id} href={`/coleccion/${work.id}`} className={styles.aboutImageItem}>
+                <Image
+                  src={work.image}
+                  alt={work.title || "Obra de la colección"}
+                  fill
+                  style={{ objectFit: 'cover' }}
+                  sizes="(max-width: 768px) 50vw, 25vw"
+                />
+                <div className={styles.aboutImageCaption}>
+                  <span className={styles.aboutImageTitle}>{work.title}</span>
+                  <span className={styles.aboutImageArtist}>{artist.name}</span>
+                </div>
+              </Link>
+            ))}
           </div>
         </div>
       </section>

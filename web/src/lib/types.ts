@@ -58,6 +58,7 @@ export interface SiteConfig {
     techniques: string;
     autoUpdate?: boolean;
   };
+  aboutWorkIds?: string[];
   featuredWorkIds?: string[];
   disciplines?: Record<string, DisciplineContent>;
   ctaTitle?: string;

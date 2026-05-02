@@ -14,7 +14,9 @@ interface Props {
 
 export default function FeaturedWorksEditor({ config, artists, onSave, onBack, saving }: Props) {
   const [selectedIds, setSelectedIds] = useState<string[]>(config.featuredWorkIds || []);
+  const [aboutIds, setAboutIds] = useState<string[]>(config.aboutWorkIds || []);
   const [search, setSearch] = useState("");
+  const [activeTab, setActiveTab] = useState<"featured" | "about">("featured");
 
   const allWorks: { artistName: string; workId: string; workTitle: string; image: string }[] = [];
   for (const artist of artists) {
@@ -27,7 +29,7 @@ export default function FeaturedWorksEditor({ config, artists, onSave, onBack, s
     ? allWorks.filter((w) => w.workTitle.toLowerCase().includes(search.toLowerCase()) || w.artistName.toLowerCase().includes(search.toLowerCase()))
     : allWorks;
 
-  const toggle = (id: string) => {
+  const toggleFeatured = (id: string) => {
     setSelectedIds((prev) => {
       if (prev.includes(id)) return prev.filter((x) => x !== id);
       if (prev.length >= 6) { alert("Máximo 6 obras destacadas"); return prev; }
@@ -35,9 +37,25 @@ export default function FeaturedWorksEditor({ config, artists, onSave, onBack, s
     });
   };
 
-  const handleSave = () => {
-    onSave({ ...config, featuredWorkIds: selectedIds });
+  const toggleAbout = (id: string) => {
+    setAboutIds((prev) => {
+      if (prev.includes(id)) return prev.filter((x) => x !== id);
+      if (prev.length >= 2) { alert("Máximo 2 obras para la sección About"); return prev; }
+      return [...prev, id];
+    });
   };
+
+  const handleSave = () => {
+    onSave({ ...config, featuredWorkIds: selectedIds, aboutWorkIds: aboutIds });
+  };
+
+  const currentIds = activeTab === "featured" ? selectedIds : aboutIds;
+  const toggleFn = activeTab === "featured" ? toggleFeatured : toggleAbout;
+  const maxItems = activeTab === "featured" ? 6 : 2;
+  const title = activeTab === "featured" ? "⭐ Obras Destacadas" : "🖼️ Obras \"Sobre la Colección\"";
+  const description = activeTab === "featured"
+    ? "Selecciona hasta 6 obras para mostrar en la página principal."
+    : "Selecciona 2 obras para mostrar en la sección \"Sobre la colección\" de la página principal.";
 
   return (
     <div className={styles.adminPage}>
@@ -48,16 +66,52 @@ export default function FeaturedWorksEditor({ config, artists, onSave, onBack, s
         </button>
       </div>
       <div className={styles.editorContent}>
-        <h2 className={styles.editorTitle}>⭐ Obras Destacadas ({selectedIds.length}/6)</h2>
+        {/* Tab switcher */}
+        <div style={{ display: "flex", gap: "0.5rem", marginBottom: "1.5rem" }}>
+          <button
+            onClick={() => setActiveTab("featured")}
+            style={{
+              padding: "0.6rem 1.2rem",
+              borderRadius: "8px",
+              border: "1px solid",
+              borderColor: activeTab === "featured" ? "#b89b5e" : "#333",
+              background: activeTab === "featured" ? "rgba(184,155,94,0.15)" : "transparent",
+              color: activeTab === "featured" ? "#b89b5e" : "#999",
+              cursor: "pointer",
+              fontWeight: activeTab === "featured" ? 600 : 400,
+              fontSize: "0.85rem",
+            }}
+          >
+            ⭐ Destacadas ({selectedIds.length}/6)
+          </button>
+          <button
+            onClick={() => setActiveTab("about")}
+            style={{
+              padding: "0.6rem 1.2rem",
+              borderRadius: "8px",
+              border: "1px solid",
+              borderColor: activeTab === "about" ? "#b89b5e" : "#333",
+              background: activeTab === "about" ? "rgba(184,155,94,0.15)" : "transparent",
+              color: activeTab === "about" ? "#b89b5e" : "#999",
+              cursor: "pointer",
+              fontWeight: activeTab === "about" ? 600 : 400,
+              fontSize: "0.85rem",
+            }}
+          >
+            🖼️ Sobre la colección ({aboutIds.length}/2)
+          </button>
+        </div>
+
+        <h2 className={styles.editorTitle}>{title} ({currentIds.length}/{maxItems})</h2>
         <p style={{ color: "#888", marginBottom: "1rem", fontSize: "0.85rem" }}>
-          Selecciona hasta 6 obras para mostrar en la página principal. Si no seleccionas ninguna, se mostrarán las primeras 6 obras con imagen.
+          {description}
         </p>
 
-        {selectedIds.length > 0 && (
+        {currentIds.length > 0 && (
           <div className={styles.featuredPreview}>
             <h3 className={styles.sectionSubtitle}>Seleccionadas:</h3>
             <div className={styles.featuredList}>
-              {selectedIds.map((id) => {
+              {currentIds.map((id) => {
                 const w = allWorks.find((x) => x.workId === id);
                 return (
                   <div key={id} className={styles.featuredItem}>
@@ -68,7 +122,7 @@ export default function FeaturedWorksEditor({ config, artists, onSave, onBack, s
                       <div style={{ color: "#fff", fontSize: "0.85rem" }}>{w?.workTitle || id}</div>
                       <div style={{ color: "#888", fontSize: "0.75rem" }}>{w?.artistName}</div>
                     </div>
-                    <button className={styles.removeImgBtn} onClick={() => toggle(id)}>✕</button>
+                    <button className={styles.removeImgBtn} onClick={() => toggleFn(id)}>✕</button>
                   </div>
                 );
               })}
@@ -86,11 +140,11 @@ export default function FeaturedWorksEditor({ config, artists, onSave, onBack, s
         </div>
 
         <div className={styles.worksList}>
-          {filtered.slice(0, 50).map((w) => (
+          {filtered.filter(w => w.image).slice(0, 50).map((w) => (
             <div
               key={w.workId}
-              className={`${styles.workCard} ${selectedIds.includes(w.workId) ? styles.workCardSelected : ""}`}
-              onClick={() => toggle(w.workId)}
+              className={`${styles.workCard} ${currentIds.includes(w.workId) ? styles.workCardSelected : ""}`}
+              onClick={() => toggleFn(w.workId)}
               style={{ cursor: "pointer" }}
             >
               <div className={styles.workCardImage}>
@@ -100,8 +154,8 @@ export default function FeaturedWorksEditor({ config, artists, onSave, onBack, s
                 <h4>{w.workTitle || "Sin título"}</h4>
                 <p>{w.artistName}</p>
               </div>
-              <div style={{ color: selectedIds.includes(w.workId) ? "#b89b5e" : "#555", fontSize: "1.2rem" }}>
-                {selectedIds.includes(w.workId) ? "★" : "☆"}
+              <div style={{ color: currentIds.includes(w.workId) ? "#b89b5e" : "#555", fontSize: "1.2rem" }}>
+                {currentIds.includes(w.workId) ? "★" : "☆"}
               </div>
             </div>
           ))}
