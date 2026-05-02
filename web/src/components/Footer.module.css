@@ -1,5 +1,5 @@
 .footer {
-  background-color: var(--color-brand-maroon);
+  background: linear-gradient(to bottom, #6B1C2A, var(--color-brand-maroon));
   color: var(--color-text-inverse);
   padding: var(--space-2xl) 0 var(--space-lg);
   margin-top: var(--space-5xl);
