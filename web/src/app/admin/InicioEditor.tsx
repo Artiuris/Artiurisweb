@@ -18,17 +18,23 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
   const [cfg, setCfg] = useState<SiteConfig>({ ...config });
   const [activeTab, setActiveTab] = useState<SubTab>("hero");
 
-  // Featured works state
-  const [featuredIds, setFeaturedIds] = useState<string[]>(config.featuredWorkIds || []);
-  const [aboutIds, setAboutIds] = useState<string[]>(config.aboutWorkIds || []);
-  const [workSearch, setWorkSearch] = useState("");
-
+  // Build flat works list first
   const allWorks: { artistName: string; workId: string; workTitle: string; image: string }[] = [];
   for (const artist of artists) {
     for (const work of artist.works) {
       allWorks.push({ artistName: artist.name, workId: work.id, workTitle: work.title, image: work.image });
     }
   }
+
+  // If no featured IDs are saved, default to the first 6 with images (matches homepage fallback)
+  const defaultFeaturedIds = (config.featuredWorkIds && config.featuredWorkIds.length > 0)
+    ? config.featuredWorkIds
+    : allWorks.filter(w => w.image).slice(0, 6).map(w => w.workId);
+
+  // Featured works state
+  const [featuredIds, setFeaturedIds] = useState<string[]>(defaultFeaturedIds);
+  const [aboutIds, setAboutIds] = useState<string[]>(config.aboutWorkIds || []);
+  const [workSearch, setWorkSearch] = useState("");
 
   const update = (field: string, value: string | boolean) => {
     setCfg((prev) => {
