@@ -33,10 +33,13 @@
     "techniques": "Pintura, Escultura, Fotografía, Grabado, Instalación",
     "autoUpdate": true
   },
-  "aboutWorkIds": ["jesus-otero-yglesias-brigitte-bardot-y-las-ranas", "antonio-lago-rivera-bodegon"],
+  "aboutWorkIds": [
+    "jesus-otero-yglesias-brigitte-bardot-y-las-ranas",
+    "antonio-lago-rivera-bodegon"
+  ],
   "featuredWorkIds": [],
   "disciplines": {},
-  "ctaTitle": "",
+  "ctaTitle": "Explora todos los artistas",
   "ctaSubtitle": "Descubre las obras y biografías de cada artista de la colección",
   "footerDescription": ""
 }
