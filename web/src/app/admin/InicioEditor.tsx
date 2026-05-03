@@ -199,16 +199,6 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
                 placeholder="Descubre el arte contemporáneo..."
               />
             </div>
-            <div className={styles.fieldGroup}>
-              <label className={styles.fieldLabel}>Descripción general (meta)</label>
-              <textarea
-                className={styles.fieldTextarea}
-                value={cfg.description}
-                onChange={(e) => update("description", e.target.value)}
-                rows={3}
-                placeholder="Descripción de la colección..."
-              />
-            </div>
 
             <h3 className={styles.sectionSubtitle} style={{ marginTop: "2rem" }}>📊 Estadísticas</h3>
             <div className={styles.fieldGroup}>
