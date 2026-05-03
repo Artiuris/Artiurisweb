@@ -78,10 +78,13 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
   };
 
   // Render selected items list
-  const renderSelectedList = (ids: string[], toggleFn: (id: string) => void) => (
+  const renderSelectedList = (ids: string[], toggleFn: (id: string) => void, max: number) => (
     ids.length > 0 ? (
       <div className={styles.featuredPreview}>
-        <h3 className={styles.sectionSubtitle}>Seleccionadas:</h3>
+        <h3 className={styles.sectionSubtitle}>Seleccionadas ({ids.length}/{max}):</h3>
+        <p style={{ color: "#777", fontSize: "0.78rem", marginBottom: "0.75rem" }}>
+          Pulsa ✕ para quitar una obra. Luego busca abajo una nueva para añadirla.
+        </p>
         <div className={styles.featuredList}>
           {ids.map((id) => {
             const w = allWorks.find((x) => x.workId === id);
@@ -94,13 +97,24 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
                   <div style={{ color: "#fff", fontSize: "0.85rem" }}>{w?.workTitle || id}</div>
                   <div style={{ color: "#888", fontSize: "0.75rem" }}>{w?.artistName}</div>
                 </div>
-                <button className={styles.removeImgBtn} onClick={() => toggleFn(id)}>✕</button>
+                <button
+                  className={styles.removeImgBtn}
+                  onClick={() => toggleFn(id)}
+                  title="Quitar esta obra"
+                  style={{ background: "#c0392b", color: "#fff", borderRadius: "6px", padding: "0.3rem 0.7rem", border: "none", cursor: "pointer", fontSize: "0.8rem", fontWeight: 600 }}
+                >
+                  ✕ Quitar
+                </button>
               </div>
             );
           })}
         </div>
       </div>
-    ) : null
+    ) : (
+      <div style={{ padding: "1.5rem", textAlign: "center", background: "#141414", borderRadius: "10px", border: "1px dashed #333", marginBottom: "1rem" }}>
+        <p style={{ color: "#888", fontSize: "0.85rem" }}>Ninguna obra seleccionada. Busca y selecciona obras de la galería de abajo.</p>
+      </div>
+    )
   );
 
   // Render work picker grid
@@ -230,7 +244,7 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
             <p style={{ color: "#888", marginBottom: "1rem", fontSize: "0.85rem" }}>
               Selecciona hasta 6 obras para mostrar en la galería destacada de la página principal. Si no seleccionas ninguna, se mostrarán automáticamente.
             </p>
-            {renderSelectedList(featuredIds, toggleFeatured)}
+            {renderSelectedList(featuredIds, toggleFeatured, 6)}
             {renderWorkGrid(featuredIds, toggleFeatured)}
           </>
         )}
@@ -264,7 +278,7 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
 
             <div style={{ borderTop: "1px solid #222", marginTop: "1.5rem", paddingTop: "1.5rem" }}>
               <h3 className={styles.sectionSubtitle}>🖼️ Obras del preview ({aboutIds.length}/2)</h3>
-              {renderSelectedList(aboutIds, toggleAbout)}
+              {renderSelectedList(aboutIds, toggleAbout, 2)}
               {renderWorkGrid(aboutIds, toggleAbout)}
             </div>
           </>
