@@ -4,11 +4,8 @@ import { useState, useEffect, useCallback } from "react";
 import styles from "./page.module.css";
 import type { Artist, Artwork, SiteConfig } from "@/lib/types";
 import AdminDashboard from "./AdminDashboard";
-import SiteContentEditor from "./SiteContentEditor";
-import FeaturedWorksEditor from "./FeaturedWorksEditor";
+import InicioEditor from "./InicioEditor";
 import AboutEditor from "./AboutEditor";
-import FooterContactEditor from "./FooterContactEditor";
-import DisciplinesEditor from "./DisciplinesEditor";
 
 const PASSWORD_KEY = "artiuris_admin_pw";
 
@@ -180,20 +177,11 @@ export default function AdminPage() {
   }
 
   // --- Sub-editors for site config sections ---
-  if (siteConfig && currentSection === "site-content") {
-    return (<><SiteContentEditor config={siteConfig} onSave={saveSiteConfig} onBack={() => setCurrentSection("dashboard")} saving={saving} />{message && <div className={styles.toast}>{message}</div>}</>);
-  }
-  if (siteConfig && currentSection === "featured") {
-    return (<><FeaturedWorksEditor config={siteConfig} artists={artists} onSave={saveSiteConfig} onBack={() => setCurrentSection("dashboard")} saving={saving} />{message && <div className={styles.toast}>{message}</div>}</>);
+  if (siteConfig && currentSection === "inicio") {
+    return (<><InicioEditor config={siteConfig} artists={artists} onSave={saveSiteConfig} onBack={() => setCurrentSection("dashboard")} saving={saving} />{message && <div className={styles.toast}>{message}</div>}</>);
   }
   if (siteConfig && currentSection === "about") {
     return (<><AboutEditor config={siteConfig} artists={artists} onSave={saveSiteConfig} onBack={() => setCurrentSection("dashboard")} saving={saving} />{message && <div className={styles.toast}>{message}</div>}</>);
-  }
-  if (siteConfig && currentSection === "footer") {
-    return (<><FooterContactEditor config={siteConfig} onSave={saveSiteConfig} onBack={() => setCurrentSection("dashboard")} saving={saving} />{message && <div className={styles.toast}>{message}</div>}</>);
-  }
-  if (siteConfig && currentSection === "disciplines") {
-    return (<><DisciplinesEditor config={siteConfig} artists={artists} onSave={saveSiteConfig} onBack={() => setCurrentSection("dashboard")} saving={saving} />{message && <div className={styles.toast}>{message}</div>}</>);
   }
 
   // --- Work Editor ---

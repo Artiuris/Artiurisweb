@@ -1,6 +1,5 @@
 "use client";
 
-import { useState } from "react";
 import styles from "./page.module.css";
 
 interface Props {
@@ -11,11 +10,8 @@ interface Props {
 export default function AdminDashboard({ onNavigate, stats }: Props) {
   const menuItems = [
     { id: "artists", icon: "🎨", label: "Artistas y Obras", desc: `${stats.artists} artistas · ${stats.works} obras` },
-    { id: "site-content", icon: "✏️", label: "Contenido del Sitio", desc: "Textos del hero, estadísticas, CTA" },
-    { id: "featured", icon: "⭐", label: "Obras Destacadas", desc: "Seleccionar las 6 obras del inicio" },
+    { id: "inicio", icon: "🏠", label: "Página de Inicio", desc: "Hero, obras destacadas, about preview, CTA y contacto" },
     { id: "about", icon: "📖", label: "Página Sobre", desc: "Textos y secciones de la página Sobre" },
-    { id: "footer", icon: "📋", label: "Footer y Contacto", desc: "Información de contacto y pie de página" },
-    { id: "disciplines", icon: "🖌️", label: "Disciplinas", desc: "Contenido de cada técnica artística" },
   ];
 
   return (
