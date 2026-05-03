@@ -104,10 +104,9 @@ export default function InicioEditor({ config, artists, onSave, onBack, saving }
                   <div style={{ color: "#888", fontSize: "0.75rem" }}>{w?.artistName}</div>
                 </div>
                 <button
-                  className={styles.removeImgBtn}
                   onClick={() => toggleFn(id)}
                   title="Quitar esta obra"
-                  style={{ background: "#c0392b", color: "#fff", borderRadius: "6px", padding: "0.3rem 0.7rem", border: "none", cursor: "pointer", fontSize: "0.8rem", fontWeight: 600 }}
+                  style={{ background: "#c0392b", color: "#fff", borderRadius: "6px", padding: "0.4rem 0.8rem", border: "none", cursor: "pointer", fontSize: "0.8rem", fontWeight: 600, flexShrink: 0, position: "relative" }}
                 >
                   ✕ Quitar
                 </button>
