@@ -24,6 +24,9 @@ export default function AdminPage() {
   const [message, setMessage] = useState("");
   const [searchQuery, setSearchQuery] = useState("");
   const [currentSection, setCurrentSection] = useState<string>("dashboard");
+  const [uploading, setUploading] = useState(false);
+  // Vistas previas locales (por ruta) mientras el redeploy sirve la imagen real
+  const [previews, setPreviews] = useState<Record<string, string>>({});
 
   const getPw = () => localStorage.getItem(PASSWORD_KEY) || password;
 
@@ -90,20 +93,92 @@ export default function AdminPage() {
     setSaving(false);
   };
 
+  // Reduce la imagen en el navegador antes de subirla (las fotos de móvil
+  // suelen pesar varios MB y superan el límite de subida del servidor).
+  const compressImage = (file: File, maxDim = 1800, quality = 0.85): Promise<File> =>
+    new Promise((resolve) => {
+      const type = file.type;
+      // Formatos que no conviene (o no se puede) redibujar: se suben tal cual.
+      if (!type.startsWith("image/") || type === "image/gif" || type === "image/svg+xml") {
+        resolve(file);
+        return;
+      }
+      const img = new Image();
+      const url = URL.createObjectURL(file);
+      img.onload = () => {
+        URL.revokeObjectURL(url);
+        let { width, height } = img;
+        if (width > maxDim || height > maxDim) {
+          if (width >= height) {
+            height = Math.round((height * maxDim) / width);
+            width = maxDim;
+          } else {
+            width = Math.round((width * maxDim) / height);
+            height = maxDim;
+          }
+        }
+        const canvas = document.createElement("canvas");
+        canvas.width = width;
+        canvas.height = height;
+        const ctx = canvas.getContext("2d");
+        if (!ctx) {
+          resolve(file);
+          return;
+        }
+        ctx.drawImage(img, 0, 0, width, height);
+        canvas.toBlob(
+          (blob) => {
+            if (!blob) {
+              resolve(file);
+              return;
+            }
+            const newName = file.name.replace(/\.[^.]+$/, "") + ".jpg";
+            resolve(new File([blob], newName, { type: "image/jpeg" }));
+          },
+          "image/jpeg",
+          quality
+        );
+      };
+      img.onerror = () => {
+        URL.revokeObjectURL(url);
+        resolve(file);
+      };
+      img.src = url;
+    });
+
   const uploadImage = async (file: File, artistId: string): Promise<string | null> => {
-    const formData = new FormData();
-    formData.append("file", file);
-    formData.append("artistId", artistId);
+    setUploading(true);
+    setMessage("⏳ Subiendo imagen...");
     try {
+      const optimized = await compressImage(file);
+      const formData = new FormData();
+      formData.append("file", optimized);
+      formData.append("artistId", artistId);
       const res = await fetch("/api/upload", {
         method: "POST",
         headers: { "x-admin-password": getPw() },
         body: formData,
       });
-      if (res.ok) return (await res.json()).path;
-    } catch {}
-    return null;
+      if (res.ok) {
+        const { path } = await res.json();
+        // Vista previa inmediata: en producción la imagen no se sirve hasta
+        // que el redeploy termina, así que mostramos el archivo local.
+        setPreviews((prev) => ({ ...prev, [path]: URL.createObjectURL(optimized) }));
+        showToast("✓ Imagen subida — recuerda pulsar «Guardar Cambios»");
+        return path;
+      }
+      const err = await res.json().catch(() => ({}));
+      showToast(`❌ Error al subir imagen: ${err.error || `código ${res.status}`}`);
+      return null;
+    } catch {
+      showToast("❌ Error de conexión al subir la imagen");
+      return null;
+    } finally {
+      setUploading(false);
+    }
   };
+
+  const imgSrc = (p?: string) => (p ? previews[p] || p : "");
 
   const currentArtist = selectedArtistId ? artists.find((a) => a.id === selectedArtistId) ?? null : null;
   const currentWork = selectedWorkId && currentArtist ? currentArtist.works.find((w) => w.id === selectedWorkId) ?? null : null;
@@ -211,11 +286,12 @@ export default function AdminPage() {
           <h2 className={styles.editorTitle}>✏️ Editando Obra</h2>
           <div className={styles.imagePreviewRow}>
             <div className={styles.imagePreview}>
-              {currentWork.image && <img src={currentWork.image} alt={safeStr(currentWork.title)} />}
+              {currentWork.image && <img src={imgSrc(currentWork.image)} alt={safeStr(currentWork.title)} />}
             </div>
             <div>
               <label className={styles.fieldLabel}>Cambiar imagen principal</label>
-              <input type="file" accept="image/*" onChange={handleWorkImageUpload} />
+              <input type="file" accept="image/*" onChange={handleWorkImageUpload} disabled={uploading} />
+              {uploading && <p className={styles.uploadHint}>⏳ Subiendo imagen, espera un momento...</p>}
             </div>
           </div>
           <div className={styles.formGrid}>
@@ -232,9 +308,9 @@ export default function AdminPage() {
             <label className={styles.fieldLabel}>📸 Imágenes adicionales</label>
             <div className={styles.extraImagesAdmin}>
               {(currentWork.images || []).map((img, i) => (
-                <div key={i} className={styles.extraImgThumb}><img src={img} alt={`Extra ${i + 1}`} /><button className={styles.removeImgBtn} onClick={() => removeExtraImage(i)}>✕</button></div>
+                <div key={i} className={styles.extraImgThumb}><img src={imgSrc(img)} alt={`Extra ${i + 1}`} /><button className={styles.removeImgBtn} onClick={() => removeExtraImage(i)}>✕</button></div>
               ))}
-              <label className={styles.addImgBtn}>+ Añadir<input type="file" accept="image/*" onChange={handleExtraImageUpload} style={{ display: "none" }} /></label>
+              <label className={styles.addImgBtn}>{uploading ? "⏳..." : "+ Añadir"}<input type="file" accept="image/*" onChange={handleExtraImageUpload} disabled={uploading} style={{ display: "none" }} /></label>
             </div>
           </div>
         </div>
@@ -277,7 +353,7 @@ export default function AdminPage() {
             <div className={styles.worksList}>
               {currentArtist.works.map((w) => (
                 <div key={w.id} className={styles.workCard}>
-                  <div className={styles.workCardImage}>{w.image ? <img src={w.image} alt={safeStr(w.title)} /> : <div className={styles.workCardPlaceholder}>Sin imagen</div>}</div>
+                  <div className={styles.workCardImage}>{w.image ? <img src={imgSrc(w.image)} alt={safeStr(w.title)} /> : <div className={styles.workCardPlaceholder}>Sin imagen</div>}</div>
                   <div className={styles.workCardInfo}><h4>{w.title || "Sin título"}</h4><p>{[w.technique, w.year].filter(Boolean).join(" · ") || "Sin datos"}</p></div>
                   <div className={styles.workCardActions}>
                     <button className={styles.editWorkBtn} onClick={() => setSelectedWorkId(w.id)}>✏️ Editar</button>

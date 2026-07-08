@@ -326,6 +326,12 @@
   margin-top: 0.3rem;
 }
 
+.uploadHint {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: #b8860b;
+}
+
 /* Image Preview */
 .imagePreviewRow {
   display: flex;
