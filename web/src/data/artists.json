@@ -4403,13 +4403,14 @@
     "extraInfo": "",
     "works": [
       {
-        "id": "bartolozzi-rafael-nueva-obra-1788474320806",
-        "title": "Nueva Obra",
-        "image": "",
-        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Mixta sobre papel.\n+ MEDIDAS: 54 x 49 centímetros.\n+ AÑO: 1970.\n+ Firmado y fechado en el extremo inferior derecho.\n",
-        "images": [
-          "/images/artworks/bartolozzi-rafael/1788474364562-imagen_de_la_obra.jpg"
-        ]
+        "id": "bartolozzi-rafael-nueva-obra-1788475252005",
+        "title": "Sin Título (S/T)",
+        "image": "/images/artworks/bartolozzi-rafael/1788475264631-imagen_de_la_obra_-_retocada..jpg",
+        "year": "1970",
+        "technique": "Mixta sobre papel",
+        "dimensions": "54 x 49 centímetros",
+        "comments": "\n",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Mixta sobre papel.\n+ MEDIDAS: 54 x 49 centímetros.\n+ AÑO: 1970.\n+ Firmado y fechado en el extremo inferior derecho."
       }
     ]
   }
