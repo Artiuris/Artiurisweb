@@ -4416,8 +4416,11 @@
     "works": [
       {
         "id": "abelenda-escudero-alfonso-nueva-obra-1788651052492",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/abelenda-escudero-alfonso/1788651070993-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Representación del mundo clásico\"",
+        "image": "/images/artworks/abelenda-escudero-alfonso/1788651070993-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Representación del mundo clásico\".\n+ TÉCNICA: Tinta sobre cartón.\n+ MEDIDAS: 49,5 x 34,5 centímetros. \n+ Firmado en el ángulo inferior derecho: Abelenda.\n",
+        "technique": "Tinta sobre cartón",
+        "dimensions": "49,5 x 34,5 centímetros"
       }
     ]
   }
