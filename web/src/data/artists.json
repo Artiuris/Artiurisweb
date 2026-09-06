@@ -4465,8 +4465,12 @@
     "works": [
       {
         "id": "alonso-florencio-nueva-obra-1788733917701",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/alonso-florencio/1788733935742-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "Sin Título (S/T)",
+        "image": "/images/artworks/alonso-florencio/1788733935742-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Sin Título” (S/T).\n+ TÉCNICA: Mixta sobre tabla.\n+ MEDIDAS: 40 x 36 centímetros. \n+ AÑO: 1994.\n+ Firmado, titulado y fechado en la parte trasera del cuadro.\n",
+        "year": "1994",
+        "technique": "Mixta sobre tabla",
+        "dimensions": "40 x 36 centímetros"
       }
     ]
   }
