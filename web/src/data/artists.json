@@ -4432,8 +4432,12 @@
     "works": [
       {
         "id": "alcain-alfredo-nueva-obra-1788718726272",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/alcain-alfredo/1788718744835-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Rey Mago\"",
+        "image": "/images/artworks/alcain-alfredo/1788718744835-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Rey Mago”.\n+ TÉCNICA: Litografía.\n+ EDICIÓN: Edición LIMITADA de 5 COPIAS, Ejemplar 1 de 5.\n+ MEDIDAS: 65 x 50 centímetros.\n+ AÑO: 1961.\n+ Firmado y fechado en el extremo inferior derecho.\n+ Numerado (1/5) en el extremo inferior izquierdo.\n",
+        "year": "1961",
+        "dimensions": "65 x 50 centímetros",
+        "technique": "Litografía"
       }
     ]
   }
