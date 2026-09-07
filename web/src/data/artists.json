@@ -4482,8 +4482,12 @@
     "works": [
       {
         "id": "alvarez-basso-dario-nueva-obra-1788815626082",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/alvarez-basso-dario/1788815646308-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Mozia!",
+        "image": "/images/artworks/alvarez-basso-dario/1788815646308-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Mozia”.\n+ TÉCNICA: Lápiz, acuarela y témpera sobre papel.\n+ MEDIDAS: 41 x 29 cms. (sin marco). \n+ AÑO: 2003.\n+ Firmado en la esquina inferior derecha del cuadro.\n",
+        "year": "2003",
+        "technique": "Lápiz, acuarela y témpera sobre papel",
+        "dimensions": "41 x 29 centímetros"
       }
     ]
   }
