@@ -533,29 +533,6 @@
     "extraInfo": ""
   },
   {
-    "id": "antoni-amat",
-    "name": "ANTONI AMAT",
-    "biography": "Antoni Amat (Barcelona, 1949). Artista catalán vinculado a la abstracción lírica y la experimentación matérica. Su obra, resuelta habitualmente en técnica mixta sobre papel, se caracteriza por un gesto expresivo y una paleta contenida que explora las texturas y la huella del proceso creativo. Ha expuesto en galerías de Barcelona y su trabajo forma parte de colecciones privadas en España.",
-    "works": [
-      {
-        "id": "antoni-amat-sin-titulo",
-        "title": "“Sin Título”",
-        "image": "/images/artworks/antoni-amat/sin-titulo.png",
-        "technique": "Técnica mixta sobre papel",
-        "dimensions": "•\t 46 centímetros (sin marco)"
-      }
-    ],
-    "artworks": [
-      {
-        "title": "“sin título”.",
-        "image": "/images/artworks/antoni-amat-sin-titulo.png",
-        "technique": "técnica mixta sobre papel.",
-        "dimensions": "60 x 46 centímetros (sin marco)."
-      }
-    ],
-    "bio": "ANTONI  AMAT (Barcelona, 1960).\nAntoni Amat alterna estudios de Arte en IADE – Escuela de Diseño (Madrid) y LA ESCOLA MASSANA (Barcelona), con trabajos de colaboración para el estudio de diseño e interiorismo Ramón Carrera. \nEn el año 1975 realiza su primera exposición, en el CELLER DE CAL NICOLAU, de Barcelona, recibiendo el premio al mejor artista local de Martorell. Desde sus inicios profesionales ha mantenido diferentes estudios en varias ciudades, como Barcelona, El Montseny, Girona, y Miami. En la actualidad reside y trabaja en Palma de Mallorca.\nEl origen, la esencia, los elementos, la interculturalidad y la contemporaneidad son conceptos básicos de la obra de Amat, que ha ido desarrollando paulatinamente hasta la actualidad. Su trayectoria profesional discurre por diferentes periodos creativos, donde su personal forma de expresión artística se pondrá de manifiesto,  haciendo una contribución muy significativa al arte contemporáneo actual."
-  },
-  {
     "id": "antonio-beneyto",
     "name": "BENEYTO, Antonio",
     "biography": "Antonio Beneyto (Albacete, 1934 - Barcelona, 2020). Escritor, pintor y escultor español, maestro del mundo onírico y máximo representante del surrealismo contemporáneo y el postismo de posguerra. Su obra, poblada de criaturas híbridas y monstruosas con gran dosis de humor e ironía, explora el inconsciente y la metafísica. Dirigió las revistas 'La Esquina' y 'Barcarola'. Su prolífica obra plástica integra el MACBA y el Museo de Albacete, entre otras instituciones.",
