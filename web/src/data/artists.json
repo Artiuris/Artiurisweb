@@ -1039,30 +1039,6 @@
     "bio": "Ángel Sevillano Estremera (Vigo, 1942 – Vilagarcía de Arousa, 1994) fue un pintor español vinculado a Galicia. Se formó en la Escuela de Artes y Oficios de Vigo, Bellas Artes de San Carlos (Valencia) y San Fernando (Madrid). Compaginó su labor creativa con la docencia y la ilustración. A mediados de los 80 residió cuatro años en Venezuela. Su estilo evolucionó desde el paisaje expresionista hacia escenas costumbristas pobladas de múltiples personajes, con influencias de Colmeiro y Laxeiro, toques oníricos de Chagall y elementos de indigenismo americano."
   },
   {
-    "id": "baltazar-torres",
-    "name": "BALTAZAR TORRES",
-    "biography": "Baltazar Torres (Portugal, 1961). Destacado artista internacional y profesor de Bellas Artes en la Univ. Católica de Portugal. Su trabajo, que fusiona reflexión conceptual y ejecución meticulosa, se ha exhibido en más de cincuenta individuales por Europa. Su obra indaga en la relación entre el individuo, el entorno y la estructura social, con instalaciones y esculturas características. Está representado en colecciones como Culturgest, IVAM, CGAC y CAC Málaga.",
-    "works": [
-      {
-        "id": "baltazar-torres-sin-titulo",
-        "title": "A tutto gas",
-        "image": "/images/artworks/baltazar-torres/sin-titulo.jpg",
-        "technique": "Fotografía a color sobre papel en cartón pluma",
-        "year": "2007"
-      }
-    ],
-    "artworks": [
-      {
-        "title": "“a tutto gas”.",
-        "image": "/images/artworks/baltazar-torres-a-tutto-gas.jpg",
-        "technique": "baltazar  torres.",
-        "dimensions": "80 x 80 centímetros (95 x 95 centímetros con marco).",
-        "year": "2007"
-      }
-    ],
-    "bio": "BALTAZAR  TORRES  (Figueira de Castelo Rodrigo\nPORTUGAL, 1961).\nConsiderado por la crítica como uno de los artistas internacionales más destacados del panorama actual, el portugués BALTAZAR TORRES ha realizado más de cincuenta exposiciones individuales en galerías públicas y privadas de numerosos países, como Alemania, Austria, España, Italia y Portugal, y ha participado en un centenar de las ferias, bienales y muestras colectivas internacionales de arte más prestigiosas. \nEs Licenciado en Bellas Artes (Especialidad de Pintura) por la FACULTAD DE BELLAS ARTES de la UNIVERSIDAD DE OPORTO, y PROFESOR de la UNIVERSIDAD CATÓLICA DE PORTUGAL.\nSu obra se encuentra representada en importantes COLECCIONES:\nCOLECCIÓN NESRIN ESIRTGEN COLLECTION, Estambul (TURQUÍA). \nES BALUARD - MUSEO DE ARTE MODERNO Y CONTEMPORÁNEO DE PALMA DE MALLORCA (ESPAÑA). \nFUNDACIÓN CAM, Alicante (ESPAÑA).\nFUNDACIÓN CALOUSTE GULBENKIAN, Lisboa (PORTUGAL). \nFUNDACIÓN CULTURGEST, Lisboa (PORTUGAL)."
-  },
-  {
     "id": "bernardi-roig",
     "name": "BERNARDÍ ROIG",
     "biography": "Bernardí Roig (Palma de Mallorca, 1965). Considerado uno de los creadores españoles más relevantes a nivel mundial. Su obra es una profunda reflexión sobre la luz, la ceguera, la memoria y el aislamiento del ser humano contemporáneo, materializada frecuentemente a través de esculturas de escayola blanca enfrentadas a tubos fluorescentes. Ha exhibido en The Phillips Collection, Bienal de Venecia, CA’ PESARO y el Museo Nacional de Escultura.",
