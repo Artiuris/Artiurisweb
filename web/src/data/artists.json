@@ -4540,8 +4540,12 @@
     "works": [
       {
         "id": "vilarino-manuel-nueva-obra-1789600835571",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/vilarino-manuel/1789600887466-imagen_con_marco_y_luz..jpg"
+        "title": "\"Los pájaros\"",
+        "image": "/images/artworks/vilarino-manuel/1789600887466-imagen_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Los pájaros”.\n+ AÑO: 2006.\n+ TÉCNICA: Fotografía Ilfochrome pegada sobre aluminio con enmarcado tipo vitrina, con metacrilato acrílico frontal y marco de madera negro de 60 x 45 mms.\n+ MEDIDAS: 120 x 120 centímetros.\n+ TIRADA: Edición limitada de 35 COPIAS NUMERADAS.\n+ Firmada, titulada y justificada (33/35) a mano al dorso.\n",
+        "year": "2006",
+        "technique": "Fotografía Ilfochrome pegada sobre aluminio con enmarcado tipo vitrina, con metacrilato acrílico frontal y marco de madera negro de 60 x 45 mms.",
+        "dimensions": "120 x 120 centímetros"
       }
     ]
   }
