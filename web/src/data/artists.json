@@ -4615,9 +4615,19 @@
   },
   {
     "id": "vives-lidia",
-    "name": "VIVES, LIDIA",
-    "biography": "",
+    "name": "VIVES, Lidia",
+    "biography": "LÍDIA VIVES (Lleida, 1991) es una fotógrafa y artista visual afincada en Barcelona (ESPAÑA). Su trabajo, fuertemente influenciado por  los artistas del Renacimiento y el Barroco italianos, así como por algunos más contemporáneos, como Henri Cartier-Bresson, Annie Leibovitz y Guy Bourdain, se caracteriza por el ambiente pictórico, el manejo del color y el carácter onírico que logra transmitir, empleando frecuentemente su autorretrato. Su mayor interés en el momento de crear una imagen no es sólo el efecto técnico, sino también el anecdótico. Le interesa que la gente interprete su fotografía, crear dudas. Esto hace que el espectador se vea obligado a mirarla durante un rato y se adentre en la historia. La idea es que resulte inquietante, que parezca que el personaje empezará a moverse en cualquier momento, que dejen claro que solo son el fotograma de una secuencia. No quiere crear escenas, sino mundos nuevos. \n\nSu trabajo ha sido publicado en revistas tan prestigiosas como “ESQUIRE”, “VOGUE ITALIA”, o “WORBZ”, y se ha expuesto en numerosas galerías, ferias y museos de todo el mundo, como INQUBATOR ART GALLERY, Melbourne (AUSTRALIA), el MUSEO DEL LOUVRE, París (FRANCIA), la FUNDACIÓN CAMPANA DEI CADUTI ROVERETO (ITALIA), la HARTLAUER FOTO GALERIE, Linz (AUSTRIA), ART FAIR BRUSSELS, Bruselas (BÉLGICA), la FUNDACIÓN LUCIANA MATALON, Milán (ITALIA), la Galería MAN RAY, Ciudad de México (MÉXICO), MIAMI FHOTO AIR, Miami (ESTADOS UNIDOS), la FIFTY DOTS GALLERY, París (FRANCIA), PHOTO BARCELONA, Barcelona (ESPAÑA), o la Galería SAATCHI, Londres (INGLATERRA). \n\nHa recibido también varios PREMIOS INTERNACIONALES, entre ellos la Medalla de Oro en el SÚPER CIRCUITO DE TRIERENBERG (2018), la Medalla de Oro en el MOSCOW INTERNATIONAL FOTO AWARDS, el Premio a Fotógrafo de Bellas Artes del Año en los MONOCHROME AWARDS (2021), el Fotógrafo Profesional del Año, en los MUSE PHOTOGRAPHY AWARDS (2021), Medalla de Oro por Autorretrato en el TRIERENBERG SUPER CIRCUIT EN WELS (Austria – 2022), ganadora del PREMIO DE FOTOGRAFÍA PASSEPARTOUT (Italia - 2022), Mención de Honor, Fine Art (Professional), BIFA BUDAPEST (Hungría – 2022), Mención de Honor, Nudes (Professional), en los CHROMATIC AWARDS (Estados Unidos – 2023), y el Certificado de Reconocimiento, en el LUXEMBOURG ART PRIZE LUXEMBOURG (Luxemburgo - 2023).\n",
     "extraInfo": "",
-    "works": []
+    "works": [
+      {
+        "id": "vives-lidia-nueva-obra-1789684610516",
+        "title": "“Bird”",
+        "image": "/images/artworks/vives-lidia/1789684626347-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+  TÍTULO: “Bird”. \n+  TÉCNICA: Fotografía impresa en papel de baryta de gramaje 325 g/m2, extrabrillante. \n+  MEDIDAS: 50,4 x 39,4 centímetros.\n+  TIRADA: Edición limitada de 5 COPIAS. \n+  AÑO: 2014.\n+  Firmada y numerada.\n",
+        "technique": "Fotografía impresa en papel de baryta de gramaje 325 g/m2, extrabrillante ",
+        "year": "2014",
+        "dimensions": "50,4 x 39,4 centímetros"
+      }
+    ]
   }
 ]
