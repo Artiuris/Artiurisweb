@@ -4566,8 +4566,12 @@
     "works": [
       {
         "id": "mestre-joel-nueva-obra-1789671934738",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/mestre-joel/1789672252394-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Packaging para una estrella”",
+        "image": "/images/artworks/mestre-joel/1789672252394-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Packaging para una estrella”.\n+ TÉCNICA: Pigmento y látex sobre loneta.\n+ MEDIDAS: 81 x 81 centímetros.\n+ AÑO: 2004.\n+ Firmado, fechado y titulado en el reverso.\n",
+        "year": "2004",
+        "technique": "Pigmento y látex sobre loneta",
+        "dimensions": "81 x 81 centímetros"
       }
     ]
   }
