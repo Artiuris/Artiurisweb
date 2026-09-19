@@ -4682,9 +4682,11 @@
     "works": [
       {
         "id": "vazquez-manuel-nueva-obra-1789851028858",
-        "title": "Nueva Obra",
+        "title": "\"Sin Título (S/T)\"",
         "image": "/images/artworks/vazquez-manuel/1789851044363-imagen_de_la_obra_-_con_marco_y_luz..jpg",
-        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Mixta sobre lienzo.\n+ MEDIDAS: 75 x 50 centímetros.\n+ Firmado al dorso.\n"
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Mixta sobre lienzo.\n+ MEDIDAS: 75 x 50 centímetros.\n+ Firmado al dorso.\n",
+        "technique": "Mixta sobre lienzo",
+        "dimensions": "75 x 50 centímetros"
       }
     ]
   }
