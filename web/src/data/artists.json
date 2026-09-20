@@ -4759,8 +4759,12 @@
     "works": [
       {
         "id": "carr-tom-nueva-obra-1789931646120",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/carr-tom/1789931652989-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Fuga púrpura”",
+        "image": "/images/artworks/carr-tom/1789931652989-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Fuga púrpura”.\n+ TÉCNICA: Mixta sobre papel.\n+ MEDIDAS: 35 x 25 centímetros (sin marco).\n+ AÑO: 1988.\n+ Firmado y fechado (88) en el ángulo inferior izquierdo.\n+ Titulado en el margen inferior.\n",
+        "year": "1988",
+        "technique": "Mixta sobre papel",
+        "dimensions": "35 x 25 centímetros"
       }
     ]
   }
