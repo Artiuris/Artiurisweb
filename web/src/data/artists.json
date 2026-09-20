@@ -4725,8 +4725,12 @@
     "works": [
       {
         "id": "urzay-dario-nueva-obra-1789922533362",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/urzay-dario/1789922556590-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Huella\"",
+        "image": "/images/artworks/urzay-dario/1789922556590-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Huella”. \n+ TÉCNICA: Acrílico sobre lienzo.\n+ MEDIDAS: 30 x 30 centímetros.\n+ Firmado “Darío Urzay NY 1992” al dorso.\n",
+        "year": "1992",
+        "technique": "Acrílico sobre lienzo",
+        "dimensions": "30 x 30 centímetros"
       }
     ]
   }
