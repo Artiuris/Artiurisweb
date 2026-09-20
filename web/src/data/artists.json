@@ -4742,8 +4742,12 @@
     "works": [
       {
         "id": "urrutia-alain-nueva-obra-1789929638015",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/urrutia-alain/1789929645758-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“S/T” (Beijing)",
+        "image": "/images/artworks/urrutia-alain/1789929645758-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+  TÍTULO: “S/T” (Beijing).\n+  AÑO: 2011.\n+  SOPORTE: Impresión fotográfica.\n+  MEDIDAS: 40 x 30 centímetros.\n+  TIRADA: Edición LIMITADA de 10 COPIAS + 5 PA.\n+  Firmada y numerada al dorso.\n",
+        "year": "2011",
+        "technique": "Impresión fotográfica",
+        "dimensions": "40 x 30 centímetros"
       }
     ]
   }
