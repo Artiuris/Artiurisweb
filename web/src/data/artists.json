@@ -4776,8 +4776,11 @@
     "works": [
       {
         "id": "tharrats-joan-josep-nueva-obra-1789937257760",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/tharrats-joan-josep/1789937272506-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Sin Título (S/T)\"",
+        "image": "/images/artworks/tharrats-joan-josep/1789937272506-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Sin Título (S/T)\".\n+ TÉCNICA: Óleo sobre cartón.\n+ MEDIDAS: 40 x 27 centímetros.\n+ Firmado en la parte superior izquierda. \n",
+        "technique": "Óleo sobre cartón",
+        "dimensions": "40 x 27 centímetros"
       }
     ]
   }
