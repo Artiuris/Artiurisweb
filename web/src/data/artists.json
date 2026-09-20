@@ -4800,8 +4800,12 @@
     "works": [
       {
         "id": "gancedo-teresa-nueva-obra-1789939424581",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/gancedo-teresa/1789939436244-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/gancedo-teresa/1789939436244-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Dibujo a lápiz y técnica mixta sobre papel.\n+ MEDIDAS: 59 x 49,5 centímetros.\n+ AÑO: 1973.\n+ Firmado y fechado (1973).\n",
+        "year": "1973",
+        "technique": "Dibujo a lápiz y técnica mixta sobre papel",
+        "dimensions": "59 x 49,5 centímetros"
       }
     ]
   }
