@@ -4910,8 +4910,11 @@
     "works": [
       {
         "id": "schommer-alberto-nueva-obra-1790025819086",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/schommer-alberto/1790025833120-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/schommer-alberto/1790025833120-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Fotografía color.\n+ MEDIDAS: 58 x 47,5 centímetros.\n+ TIRADA: Edición de 5 EJEMPLARES numerados (3/5).\n+ FIRMADO y NUMERADO: 3/5.\n",
+        "technique": "Fotografía a color",
+        "dimensions": "58 x 47,5 centímetros"
       }
     ]
   }
