@@ -4959,8 +4959,11 @@
       },
       {
         "id": "villaverde-aboal-santiago-nueva-obra-1790028690399",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/villaverde-aboal-santiago/1790028700829-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Sin Título (S/T)\"",
+        "image": "/images/artworks/villaverde-aboal-santiago/1790028700829-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Sin Título (S/T)\".\n+ TÉCNICA: Óleo sobre cartón.\n+ MEDIDAS: 53 x 37,5 centímetros. \n+ Firmado.\n",
+        "technique": "Óleo sobre cartón",
+        "dimensions": "53 x 37,5 centímetros"
       }
     ]
   }
