@@ -4860,8 +4860,12 @@
     "works": [
       {
         "id": "sevillano-angel-nueva-obra-1790000910623",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/sevillano-angel/1790000922392-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/sevillano-angel/1790000922392-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”. \n+ TÉCNICA: Óleo sobre papel con toques de acuarela. \n+ MEDIDAS: 65 x 49 centímetros. \n+ AÑO: 1966. \n+ Firmado y fechado.\n",
+        "year": "1966",
+        "technique": "Óleo sobre papel con toques de acuarela",
+        "dimensions": "65 x 49 centímetros"
       }
     ]
   }
