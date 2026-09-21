@@ -4894,8 +4894,11 @@
     "works": [
       {
         "id": "lio-martorelli-laura-nueva-obra-1790024029448",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/lio-martorelli-laura/1790024058841-imagen_de_la_obra_-_con_peana_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/lio-martorelli-laura/1790024058841-imagen_de_la_obra_-_con_peana_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”. \n+ TÉCNICA: Escultura realizada en aluminio y ratán (PIEZA ÚNICA).\n+ MEDIDAS: 50 x 23 x 21 centímetros.\n",
+        "technique": "Escultura realizada en aluminio y ratán (PIEZA ÚNICA)",
+        "dimensions": "50 x 23 x 21 centímetros"
       }
     ]
   }
