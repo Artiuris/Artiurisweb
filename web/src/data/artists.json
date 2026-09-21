@@ -4926,8 +4926,12 @@
     "works": [
       {
         "id": "satrustegui-rafael-nueva-obra-1790026759573",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/satrustegui-rafael/1790026769451-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Jarra\"",
+        "image": "/images/artworks/satrustegui-rafael/1790026769451-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Jarra”. \n+ TÉCNICA: Acrílico sobre lienzo.\n+ MEDIDAS: 116 x 89 centímetros.\n+ AÑO: 1987.\n+ Al DORSO, firmado, titulado y fechado (“27-01-1987” ).\n",
+        "year": "1987",
+        "technique": "Acrílico sobre lienzo",
+        "dimensions": "116 x 89 centímetros"
       }
     ]
   }
