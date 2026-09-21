@@ -4843,8 +4843,12 @@
     "works": [
       {
         "id": "tallos-tanarro-isabel-nueva-obra-1789999903321",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/tallos-tanarro-isabel/1789999926690-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Claudias 00\" - SERIE \"Claudias\"",
+        "image": "/images/artworks/tallos-tanarro-isabel/1789999926690-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Claudias 00”.\n+ SERIE: “CLAUDIAS”.\n+ TÉCNICA: Gelatina de plata sobre papel Endura RC.\n+ MEDIDAS: 130 x 100 centímetros. \n+ AÑO: 2009.\n+ TIRADA: Edición de 5 copias + 1PA.\n",
+        "year": "2009",
+        "technique": "Gelatina de plata sobre papel Endura RC",
+        "dimensions": "130 x 100 centímetros"
       }
     ]
   }
