@@ -4975,8 +4975,13 @@
     "works": [
       {
         "id": "sanchez-calderon-fernando-nueva-obra-1790030072280",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/sanchez-calderon-fernando/1790030082711-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Lacado en blanco”",
+        "image": "/images/artworks/sanchez-calderon-fernando/1790030082711-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Lacado en blanco”.\n+ AÑO: 1994.\n+ TÉCNICA: Mixta sobre lienzo.\n+ MEDIDAS: 100 x 65 centímetros. \n+ Firmado y fechado en el canto del cuadro.\n+ Fechado y titulado al dorso.\n",
+        "year": "1994",
+        "technique": "Mixta sobre lienzo",
+        "dimensions": "100 x 65 centímetros",
+        "comments": "+ OBRA CATALOGADA:\n     = “FERNANDO SÁNCHEZ CALDERÓN. Memoria, 1992 – 1997”.\nJUNTA DE CASTILLA Y LEÓN.\nComisario: Miguel Fernández-Cid.\nPág.133.\n"
       }
     ]
   }
