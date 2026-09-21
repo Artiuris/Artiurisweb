@@ -4877,8 +4877,12 @@
     "works": [
       {
         "id": "serrano-aguilar-pablo-nueva-obra-1790018985532",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/serrano-aguilar-pablo/1790018998101-imagen_de_la_obra_-_con_peana_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/serrano-aguilar-pablo/1790018998101-imagen_de_la_obra_-_con_peana_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Escultura en bronce patinado, con peana en mármol.\n+ MEDIDAS: 22 x 11,5 x 10,5 centímetros.\n+ TIRADA: Edición LIMITADA de 10 Ejemplares numerados (2/10).\n+ AÑO: 1974.\n+ Firmada y numerada: 2/10.\n",
+        "technique": "Escultura en bronce patinado, con peana en mármol",
+        "dimensions": "22 x 11,5 x 10,5 centímetros",
+        "year": "1974"
       }
     ]
   }
