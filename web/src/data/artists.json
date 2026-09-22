@@ -5020,8 +5020,12 @@
     "works": [
       {
         "id": "facal-manuel-nueva-obra-1790113652072",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/facal-manuel/1790113670289-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Aguirre\"",
+        "image": "/images/artworks/facal-manuel/1790113670289-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Aguirre”. \n+ TÉCNICA: Aguafuerte sobre papel.\n+ MEDIDAS: 69,5 x 46 centímetros.\n+ TIRADA: Edición LIMITADA. Ejemplar P/A – Prueba de Autor 5/8.\n+ AÑO: 1978.\n+ Firmado y fechado (1978) a lápiz en el ángulo inferior derecho.\n+ Numerado (P/A 5/8) en el ángulo inferior izquierdo.\n+ Titulado en la parte inferior central.\n",
+        "year": "1978",
+        "technique": "Aguafuerte sobre papel",
+        "dimensions": "69,5 x 46 centímetros"
       }
     ]
   }
