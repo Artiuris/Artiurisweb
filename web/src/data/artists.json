@@ -5003,8 +5003,12 @@
     "works": [
       {
         "id": "aulestia-salvador-nueva-obra-1790093183485",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/aulestia-salvador/1790093194758-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Figura\"",
+        "image": "/images/artworks/aulestia-salvador/1790093194758-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Figura”.\n+ TÉCNICA: Óleo sobre tabla.\n+ MEDIDAS: 60 x 40 centímetros.\n+ AÑO: 1970.\n+ Firmado y fechado en la zona inferior izquierda.\n",
+        "year": "1970",
+        "technique": "Óleo sobre tabla",
+        "dimensions": "60 x 40 centímetros"
       }
     ]
   }
