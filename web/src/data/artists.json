@@ -5100,8 +5100,12 @@
       },
       {
         "id": "roig-bernardi-nueva-obra-1790202943615",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/roig-bernardi/1790202954352-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Vanitatem III\"",
+        "image": "/images/artworks/roig-bernardi/1790202954352-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Vanitatem III\". \n+ TÉCNICA: Litografía.\n+ MEDIDAS: 101 x 70 centímetros.\n+ TIRADA: Edición de 75 COPIAS + 10 PA.\n+ EJEMPLAR NÚMERO: P. A. (Prueba de Artista) 10/10.\n+ AÑO: 1993.\n+ Firmada y numerada en el ángulo inferior derecho.\n+ Editada por Ediciones Estiarte, Madrid. ",
+        "year": "1993",
+        "technique": "Litografía",
+        "dimensions": "101 x 70 centímetros"
       }
     ]
   }
