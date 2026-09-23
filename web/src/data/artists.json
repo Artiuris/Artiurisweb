@@ -1040,61 +1040,6 @@
     "bio": "Ángel Sevillano Estremera (Vigo, 1942 – Vilagarcía de Arousa, 1994) fue un pintor español vinculado a Galicia. Se formó en la Escuela de Artes y Oficios de Vigo, Bellas Artes de San Carlos (Valencia) y San Fernando (Madrid). Compaginó su labor creativa con la docencia y la ilustración. A mediados de los 80 residió cuatro años en Venezuela. Su estilo evolucionó desde el paisaje expresionista hacia escenas costumbristas pobladas de múltiples personajes, con influencias de Colmeiro y Laxeiro, toques oníricos de Chagall y elementos de indigenismo americano."
   },
   {
-    "id": "bernardi-roig",
-    "name": "BERNARDÍ ROIG",
-    "biography": "Bernardí Roig (Palma de Mallorca, 1965). Considerado uno de los creadores españoles más relevantes a nivel mundial. Su obra es una profunda reflexión sobre la luz, la ceguera, la memoria y el aislamiento del ser humano contemporáneo, materializada frecuentemente a través de esculturas de escayola blanca enfrentadas a tubos fluorescentes. Ha exhibido en The Phillips Collection, Bienal de Venecia, CA’ PESARO y el Museo Nacional de Escultura.",
-    "works": [
-      {
-        "id": "bernardi-roig-sin-titulo",
-        "title": "SIN TÍTULO",
-        "image": "/images/artworks/bernardi-roig/sin-titulo.png",
-        "technique": "Óleo sobre lienzo",
-        "year": "1989",
-        "dimensions": "61 x 50 centímetros"
-      },
-      {
-        "id": "bernardi-roig-vanitatem-iii---litografia",
-        "title": "VANITATEM III - Litografía",
-        "image": "/images/artworks/bernardi-roig/vanitatem-iii-litografia.jpg",
-        "technique": "Litografía",
-        "year": "1993",
-        "dimensions": "101 x 70 centímetros"
-      },
-      {
-        "id": "bernardi-roig-crucifixion",
-        "title": "CRUCIFIXIÓN",
-        "image": "/images/artworks/bernardi-roig/crucifixion.png",
-        "technique": "Óleo sobre lienzo",
-        "year": "1989",
-        "dimensions": "114 x 146 centímetros"
-      }
-    ],
-    "artworks": [
-      {
-        "title": "sin título\".",
-        "image": "/images/artworks/bernardi-roig-sin-titulo.png",
-        "technique": "óleo sobre lienzo.",
-        "dimensions": "61 x 50 centímetros.",
-        "year": "1989"
-      },
-      {
-        "title": "vanitatem iii\".",
-        "image": "/images/artworks/bernardi-roig-vanitatem-iii.jpg",
-        "technique": "Litografía",
-        "dimensions": "101 x 70 centímetros.",
-        "year": "1993"
-      },
-      {
-        "title": "crucifixión\".",
-        "image": "/images/artworks/bernardi-roig-crucifixion.png",
-        "technique": "óleo sobre lienzo.",
-        "dimensions": "114 x 146 centímetros.",
-        "year": "1989"
-      }
-    ],
-    "bio": "BERNARDÍ  ROIG (Palma Mallorca, 1965).\nBERNARDÍ ROIG  está considerado como uno de los artistas contemporáneos españoles más relevantes en el panorama internacional, tras haber expuesto en numerosas galerías, museos e instituciones de todo el mundo, como la FUNDACIÓN MIRÓ (1995), la SALA TOTEM IL CANNALE, de Venecia (1996), el MUSEO DE ARTE CONTEMPORÁNEO Y DISEÑO DE SAN JOSÉ, en Costa Rica (1997), la FUNDACIÓN LUDWIG, de La Habana (1999), el MUSEO JACOBO BORGES, de Venezuela (2000), el MUSEO DE BELLAS ARTES DE OVIEDO (2000), la Galería MAX ESTRELLA, de Madrid (2000), la Galería ADRIANA SCHMIDT, de Colonia (2000), la Galería CLAIRE OLIVER, de Nueva York (2002) o el MUSEO LUDWIGSBURG, de Stuttgart (2002). También ha tomado parte en la BIENAL DE VENECIA (2001), la BIENAL DE EGIPTO (2001) o en la feria ARCO, de Madrid.\nEntre sus últimas EXPOSICIONES INDIVIDUALES destacan las realizadas en el CENTRO DE ARTE CONTEMPORÂNEA DE BRAGANÇA, en Portugal, y THE PHILLIPS COLLECTION, en Washington D."
-  },
-  {
     "id": "calo-carratala",
     "name": "CALO CARRATALÁ",
     "biography": "Calo Carratalá (Valencia, 1959). Pintor de marcado carácter paisajístico. Su obra destaca por sus intensas expediciones por la Amazonia, Noruega o Los Alpes, plasmando la majestuosidad de la naturaleza en dibujos y óleos con una técnica rigurosa y un profundo respeto por el entorno salvaje. Expone asiduamente en España y prestigiosas ferias de arte internacionales.",
