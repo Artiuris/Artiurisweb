@@ -5075,8 +5075,13 @@
     "works": [
       {
         "id": "rubert-gino-nueva-obra-1790177685928",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/rubert-gino/1790177700714-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Interior\"",
+        "image": "/images/artworks/rubert-gino/1790177700714-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Interior”.\n+ TÉCNICA: Óleo sobre tela.\n+ MEDIDAS: 147 x 97 centímetros. \n+ AÑO: 1990. \n+ Firmado y fechado (1990) en el extremo inferior izquierdo.\n",
+        "year": "1990",
+        "technique": "Óleo sobre tela",
+        "dimensions": "147 x 97 centímetros",
+        "comments": "+ Obra de especial importancia para el artista Gino Rubert, puesto que representa la cocina de la vivienda en la que creció, en el barrio de Sarrià (Barcelona)."
       }
     ]
   }
