@@ -5082,8 +5082,12 @@
     "works": [
       {
         "id": "roig-bernardi-nueva-obra-1790202692182",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/roig-bernardi/1790202702842-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Crucifixión\"",
+        "image": "/images/artworks/roig-bernardi/1790202702842-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Crucifixión\". \n+ TÉCNICA: Óleo sobre lienzo.\n+ MEDIDAS: 146 x 114 centímetros.\n+ AÑO: 1989.\n+ Firmado y fechado en el reverso. \n",
+        "year": "1989",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "146 x 114 centímetros"
       }
     ]
   }
