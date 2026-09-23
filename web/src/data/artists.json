@@ -5093,8 +5093,12 @@
     "works": [
       {
         "id": "rojas-peinado-antonio-nueva-obra-1790199355152",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/rojas-peinado-antonio/1790199368608-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Isla Cristina\"",
+        "image": "/images/artworks/rojas-peinado-antonio/1790199368608-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Isla Cristina\". \n+ TÉCNICA: Acuarela sobre papel.\n+ MEDIDAS: 20 x 20 centímetros.\n + AÑO: 2023.\n+ Firmado y fechado (AR23), en el extremo inferior derecho.\n",
+        "year": "2023",
+        "technique": "Acuarela sobre papel",
+        "dimensions": "20 x 20 centímetros"
       }
     ]
   }
