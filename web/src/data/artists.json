@@ -5129,8 +5129,12 @@
     "works": [
       {
         "id": "ubeda-pineiro-rafael-nueva-obra-1790263363171",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/ubeda-pineiro-rafael/1790263378369-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Personaje\"",
+        "image": "/images/artworks/ubeda-pineiro-rafael/1790263378369-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Personaje”.\n+ TÉCNICA: Acuarela y ceras sobre papel.\n+ MEDIDAS: 30,5 x 21 centímetros. \n+ AÑO: 1970.\n+ Firmada y fechada (1970) en la parte inferior.\n",
+        "year": "1970",
+        "technique": "Acuarela y ceras sobre papel",
+        "dimensions": "30,5 x 21 centímetros"
       }
     ]
   }
