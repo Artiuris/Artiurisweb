@@ -5112,8 +5112,12 @@
     "works": [
       {
         "id": "marti-alsina-ramon-nueva-obra-1790262037479",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/marti-alsina-ramon/1790262079791-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Retrato de dama\"",
+        "image": "/images/artworks/marti-alsina-ramon/1790262079791-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Retrato de Dama”.\n+ TÉCNICA: Carboncillo sobre papel.\n+ MEDIDAS: 38 x 30 centímetros.\n+ AÑO: 1999.\n+ Firmado en el ángulo inferior derecho.\n",
+        "year": "1999",
+        "technique": "Carboncillo sobre papel",
+        "dimensions": "38 x 30 centímetros"
       }
     ]
   }
