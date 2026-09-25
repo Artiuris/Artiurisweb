@@ -5202,8 +5202,12 @@
     "works": [
       {
         "id": "perdices-pilar-nueva-obra-1790371363794",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/perdices-pilar/1790371555416-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/perdices-pilar/1790371555416-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Collage sobre cartulina.\n+ MEDIDAS: 29’5 x 21’5 centímetros.\n+ AÑO: 1999.\n+ Firmado y fechado en la zona inferior.\n",
+        "year": "1999",
+        "technique": "Collage sobre cartulina",
+        "dimensions": "29,5 x 21,5 centímetros"
       }
     ]
   }
