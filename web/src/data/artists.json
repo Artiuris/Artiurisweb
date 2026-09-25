@@ -5185,8 +5185,12 @@
     "works": [
       {
         "id": "pinar-jose-nueva-obra-1790370402131",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/pinar-jose/1790370414044-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Sin Título (S/T)\"",
+        "image": "/images/artworks/pinar-jose/1790370414044-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Sin Título (S/T)\".\n+ TÉCNICA: Mixta sobre lienzo.\n+ MEDIDAS: 75 x 75 centímetros. \n+ AÑO: 1998.\n+ Firmado y fechado al dorso.\n",
+        "year": "1998",
+        "technique": "Mixta sobre lienzo",
+        "dimensions": "75 x 75 centímetros"
       }
     ]
   }
