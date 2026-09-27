@@ -5236,8 +5236,12 @@
     "works": [
       {
         "id": "murado-lopez-antonio-nueva-obra-1790546089691",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/murado-lopez-antonio/1790546104684-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/murado-lopez-antonio/1790546104684-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Óleo sobre lino.\n+ MEDIDAS: 130 x 130 centímetros. \n+ AÑO: 1995.\n+ Firmado, titulado y fechado al dorso.\n",
+        "year": "1995",
+        "technique": "Óleo sobre lino",
+        "dimensions": "130 x 130 centímetros"
       }
     ]
   }
