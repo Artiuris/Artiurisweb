@@ -5231,8 +5231,12 @@
     "works": [
       {
         "id": "serrano-rueda-santiago-nueva-obra-1790612122687",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/serrano-rueda-santiago/1790612136736-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Edipo Rey”",
+        "image": "/images/artworks/serrano-rueda-santiago/1790612136736-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Edipo Rey”.\n+ TÉCNICA: Óleo sobre lienzo.\n+ MEDIDAS: 170 x 150 centímetros.\n+ AÑO: 1986.\n+ Firmado en el ángulo inferior izquierdo.\n+ Titulado y fechado al dorso.\n",
+        "year": "1986",
+        "dimensions": "170 x 150 centímetros",
+        "technique": "Óleo sobre lienzo"
       }
     ]
   }
