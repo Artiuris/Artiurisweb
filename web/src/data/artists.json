@@ -5289,8 +5289,11 @@
     "works": [
       {
         "id": "moreno-pecino-rafael-nueva-obra-1790718740662",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/moreno-pecino-rafael/1790718754819-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Bodegón de libros antiguos\"",
+        "image": "/images/artworks/moreno-pecino-rafael/1790718754819-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Bodegón de libros antiguos\". \n+ TÉCNICA: Óleo sobre lienzo.\n+ MEDIDAS: 55,5 x 46 centímetros. \n+ Firmado en el extremo inferior derecho.\n",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "55,5 x 46 centímetros"
       }
     ]
   }
