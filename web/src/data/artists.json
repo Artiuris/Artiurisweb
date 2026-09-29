@@ -5256,8 +5256,11 @@
     "works": [
       {
         "id": "lopez-de-salgueiro-enma-nueva-obra-1790695951817",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/lopez-de-salgueiro-enma/1790695966315-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Personaje femenino”",
+        "image": "/images/artworks/lopez-de-salgueiro-enma/1790695966315-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Personaje femenino”.\n+ TÉCNICA: Lápices de colores sobre cartulina.\n+ MEDIDAS: 25 x 20 centímetros.\n+ Firmado y dedicado en el extremo inferior izquierdo: “Para Mano, con ese amor que le tengo”.\n",
+        "technique": "Lápices de colores sobre cartulina",
+        "dimensions": "25 x 20 centímetros"
       }
     ]
   }
