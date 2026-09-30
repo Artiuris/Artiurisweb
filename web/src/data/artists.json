@@ -5322,8 +5322,12 @@
     "works": [
       {
         "id": "gomez-osuna-montserrat-nueva-obra-1790810263371",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/gomez-osuna-montserrat/1790810276021-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/gomez-osuna-montserrat/1790810276021-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Lápices de colores y collage sobre papel.\n+ MEDIDAS: 34 x 34 centímetros.\n+ AÑO: 1992.\n+ Firmado y dedicado en el extremo inferior derecho: “Para Enrique Gómez Acebo 1992”.\n\tENRIQUE GÓMEZ ACEBO: Director de la desaparecida galería madrileña “EGAM”.\n",
+        "year": "1992",
+        "technique": "Lápices de colores y collage sobre papel.",
+        "dimensions": "34 x 34 centímetros"
       }
     ]
   }
