@@ -5305,8 +5305,12 @@
     "works": [
       {
         "id": "algovia-marcos-nueva-obra-1790808551493",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/algovia-marcos/1790808650231-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“La Estancia – 05”",
+        "image": "/images/artworks/algovia-marcos/1790808650231-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+  TÍTULO: “La Estancia – 05”.\n+  TÉCNICA: Impresión de tintas pigmentadas sobre papel Hahnemüle con marco Taco de madera y metacrilato de 5 mms.\n+  MEDIDAS: 150 x 90 centímetros.\n+  TIRADA: Edición de 5 copias + PA\n+  AÑO: 2010.\n",
+        "year": "2010",
+        "technique": "Impresión de tintas pigmentadas sobre papel Hahnemüle con marco Taco de madera y metacrilato de 5 mms.",
+        "dimensions": "150 x 90 centímetros"
       }
     ]
   }
