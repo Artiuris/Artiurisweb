@@ -1312,13 +1312,17 @@
     "works": [
       {
         "id": "diego-casado-cerezo-sin-titulo",
-        "title": "Sin Título",
+        "title": "“Sin Título (S/T)”",
         "image": "/images/artworks/diego-casado-cerezo/sin-titulo.png",
         "images": [
           "/images/artworks/diego-casado-cerezo/sin-titulo-n2.png",
           "/images/artworks/diego-casado-cerezo/sin-titulo-n3.png",
           "/images/artworks/diego-casado-cerezo/sin-titulo-n4.png"
-        ]
+        ],
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Fotografía en blanco y negro sobre papel baritado y virado al selenio. \n+ MEDIDAS: 50 x 40 centímetros. \n+ AÑO: 2001.\t\n+ TIRADA: Edición LIMITADA de 5 únicas COPIAS.\n",
+        "year": "2001",
+        "technique": "Fotografía en blanco y negro sobre papel baritado y virado al selenio",
+        "dimensions": "50 x 40 centímetros"
       },
       {
         "id": "diego-casado-cerezo-la-casa-del-alma",
