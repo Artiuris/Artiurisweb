@@ -5346,8 +5346,12 @@
     "works": [
       {
         "id": "clave-i-sanmarti-antoni-nueva-obra-1791151015605",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/clave-i-sanmarti-antoni/1791151051793-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Instrument Étrange I”",
+        "image": "/images/artworks/clave-i-sanmarti-antoni/1791151051793-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Instrument Étrange I”.\n+ TÉCNICA: Carborundum y gofrado sobre papel.\n+ MEDIDAS: 76,5 x 56,5 centímetros. \n+ TIRADA: Edición limitada de 99 COPIAS. (Ejemplar nº 3/99).\n+ AÑO: 1980.\n+ Firmado y numerado a lápiz.\n+ BIBLIOGRAFÍA:\n\"Antoni Clavé, Grabador\". MUSEO ESPAÑOL DE ARTE CONTEMPORÁNEO, Madrid 1984, nº 155. Pág. 157.\n\n",
+        "year": "1980",
+        "technique": "Carborundum y gofrado sobre papel",
+        "dimensions": "76,5 x 56,5 centímetros"
       }
     ]
   }
