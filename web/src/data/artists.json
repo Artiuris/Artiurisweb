@@ -5363,8 +5363,12 @@
     "works": [
       {
         "id": "colins-hannah-nueva-obra-1791153133836",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/colins-hannah/1791153146489-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“FOOD”",
+        "image": "/images/artworks/colins-hannah/1791153146489-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “FOOD”.\n+ TÉCNICA: Fotografía en gelatina de plata.\n+ MEDIDAS: 174 x 130 centímetros.\n+ TIRADA: Edición LIMITADA de 3 únicas COPIAS.\n+ AÑO DE REALIZACIÓN: 1994.\n",
+        "year": "1994",
+        "technique": "Fotografía en gelatina de plata",
+        "dimensions": "174 x 130 centímetros"
       }
     ]
   }
