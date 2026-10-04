@@ -5326,6 +5326,12 @@
     "name": "ESCUELA ESPAÑOLA SIGLO XX",
     "biography": "",
     "extraInfo": "",
-    "works": []
+    "works": [
+      {
+        "id": "escuela-espanola-siglo-xx-nueva-obra-1791147596807",
+        "title": "Nueva Obra",
+        "image": "/images/artworks/escuela-espanola-siglo-xx/1791147609255-imagen_de_la_obra_-_con_luz..jpg"
+      }
+    ]
   }
 ]
