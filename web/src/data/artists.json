@@ -5432,8 +5432,12 @@
     "works": [
       {
         "id": "candaudap-guinea-luis-nueva-obra-1791239043175",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/candaudap-guinea-luis/1791239053048-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Lacan - dona\"",
+        "image": "/images/artworks/candaudap-guinea-luis/1791239053048-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Lacan - dona\".\n+ TÉCNICA: Acrílico sobre tela.\n+ MEDIDAS: 194 x 195 centímetros (Díptico). \n+ AÑO: 1995.\n+ Firmado, titulado y fechado en la parte trasera del cuadro.\n",
+        "year": "1995",
+        "technique": "Acrílico sobre tela",
+        "dimensions": "194 x 195 centímetros (Díptico)"
       }
     ]
   }
