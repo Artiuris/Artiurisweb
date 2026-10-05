@@ -5400,8 +5400,11 @@
     "works": [
       {
         "id": "caballero-jose-nueva-obra-1791219189125",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/caballero-jose/1791219204575-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Joven en el columpio”",
+        "image": "/images/artworks/caballero-jose/1791219204575-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Joven en el columpio”.\n+ MEDIDAS: 76 x 54 centímetros.\n+ TÉCNICA: Acuarela sobre papel. \n+ Firmado en el ángulo inferior derecho (José Caballero).\n",
+        "technique": "Acuarela sobre papel",
+        "dimensions": "76 x 54 centímetros"
       }
     ]
   }
