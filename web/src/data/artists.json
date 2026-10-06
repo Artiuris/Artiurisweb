@@ -5518,8 +5518,11 @@
     "works": [
       {
         "id": "ranz-oscar-nueva-obra-1791328706556",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/ranz-oscar/1791328715360-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/ranz-oscar/1791328715360-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Óleo sobre cartulina.\n+ MEDIDAS: 67 x 58 centímetros. \n+ Firmado en la parte inferior derecha del cuadro.\n",
+        "technique": "Óleo sobre cartulina",
+        "dimensions": "67 x 58 centímetros"
       }
     ]
   }
