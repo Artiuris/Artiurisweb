@@ -5534,8 +5534,12 @@
     "works": [
       {
         "id": "del-castillo-naia-nueva-obra-1791498414610",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/del-castillo-naia/1791498430370-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Tiro con Arco”",
+        "image": "/images/artworks/del-castillo-naia/1791498430370-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Tiro con Arco”.\n+ TÉCNICA: Fotografía Luxacrhome.\n+ MEDIDAS: 160 x 120 centímetros. \n+ AÑO: 2003.\n+ Firmado y titulado en la parte trasera de la obra.\n+ TIRADA: Edición LIMITADA de sólo 10 COPIAS.\n",
+        "year": "2003",
+        "technique": "Fotografía Luxacrhome",
+        "dimensions": "160 x 120 centímetros"
       }
     ]
   }
