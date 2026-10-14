@@ -5568,8 +5568,11 @@
     "works": [
       {
         "id": "palmeiro-jose-nueva-obra-1792019861878",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/palmeiro-jose/1792019873503-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“La iglesia”",
+        "image": "/images/artworks/palmeiro-jose/1792019873503-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “La iglesia”.\n+ TÉCNICA: Lápiz y tinta sobre papel.\n+ MEDIDAS: 32 x 20 centímetros.\n+ Firmado en la parte inferior derecha del cuadro.\n",
+        "technique": "Lápiz y tinta sobre papel",
+        "dimensions": "32 x 20 centímetros"
       }
     ]
   }
