@@ -5583,8 +5583,13 @@
     "works": [
       {
         "id": "pelaez-paloma-nueva-obra-1792080153071",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/pelaez-paloma/1792080170225-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/pelaez-paloma/1792080170225-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”.\n+ TÉCNICA: Temple y óleo sobre tela.\n+ MEDIDAS: 55 x 46 centímetros.\n+ AÑO: 1995 - 96.\n+ Firmado y fechado en la parte trasera de la obra.\n",
+        "year": "1995 - 96",
+        "technique": "Temple y óleo sobre tela",
+        "dimensions": "55 x 46 centímetros",
+        "info": "+ Obra CATALOGADA en el catálogo de DAVID BEITZEL GALLERY, Nueva York (ESTADOS UNIDOS)."
       }
     ]
   }
