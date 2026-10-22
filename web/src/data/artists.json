@@ -5649,8 +5649,13 @@
     "works": [
       {
         "id": "carbajo-tono-nueva-obra-1792708589492",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/carbajo-tono/1792708608984-imagen_de_la_obra_-_con_marco_e_iluminaci_n..jpg"
+        "title": "\"Sin Título (S/T)\"",
+        "image": "/images/artworks/carbajo-tono/1792708608984-imagen_de_la_obra_-_con_marco_e_iluminaci_n..jpg",
+        "description": "+ TÍTULO: \"Sin Título (S/T)\"\n+ TÉCNICA: Técnica mixta sobre el propio abanico de tela.\n+ MEDIDAS: 42 x 22 centímetros (abierto).\n",
+        "technique": "Técnica mixta sobre el propio abanico de tela",
+        "dimensions": "42 x 22 centímetros (abierto)",
+        "comments": "Pintado a mano. Es una pieza muy rara y exclusiva, realizada expresamente para una exposición colectiva de destacados artistas gallegos contemporáneos (PUXANDO O AR), organizada en la década de los años 90 (30 de Julio – 30 de Septiembre de 1996) por la galería \"Noroeste\", de Santiago de Compostela.",
+        "year": "1996"
       }
     ]
   }
