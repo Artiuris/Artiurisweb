@@ -5659,8 +5659,11 @@
       },
       {
         "id": "carbajo-tono-nueva-obra-1792708864524",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/carbajo-tono/1792708884055-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Sin Título (S/T)\"",
+        "image": "/images/artworks/carbajo-tono/1792708884055-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Sin Título (S/T)\".\n+ TÉCNICA: Acuarela y temple sobre papel.\n+ MEDIDAS: 49 x 34 centímetros. \n+ Firmado en el ángulo inferior derecho.\n",
+        "technique": "Acuarela y temple sobre papel",
+        "dimensions": "49 x 34 centímetros"
       }
     ]
   }
