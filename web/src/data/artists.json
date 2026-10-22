@@ -5693,8 +5693,12 @@
     "works": [
       {
         "id": "canosa-yamandu-nueva-obra-1792709633123",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/canosa-yamandu/1792709678066-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Brindis”",
+        "image": "/images/artworks/canosa-yamandu/1792709678066-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Brindis”.\n+ TÉCNICA: Óleo sobre lienzo.\n+ MEDIDAS: 180 x 112 centímetros.\n+ AÑO: 2004.\n+ Firmado, titulado y fechado al dorso.\n",
+        "year": "2004",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "180 x 112 centímetros"
       }
     ]
   }
