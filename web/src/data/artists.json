@@ -5736,6 +5736,17 @@
     "name": "ESCUELA ESPAÑOLA SEGUNDA MITAD SIGLO XX",
     "biography": "",
     "extraInfo": "",
-    "works": []
+    "works": [
+      {
+        "id": "escuela-espanola-segunda-mitad-siglo-xx-nueva-obra-1792798677462",
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/escuela-espanola-segunda-mitad-siglo-xx/1792798699618-imagen_de_la_obra_-_con_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”. \n+ TÉCNICA: Escultura realizada en madera. \n+ MEDIDAS: 50 x 23 x 21 centímetros.\n",
+        "year": "Segunda mitad Siglo XX",
+        "technique": "Madera",
+        "dimensions": "50 x 23 x 21 centímetros",
+        "comments": "ESCULTURA abstracta en madera, de acusado carácter biomórfico, construida mediante un dinámico diálogo entre volumen y vacío. Su composición vertical se articula a través de formas sinuosas y continuas que evocan, sin reproducir literalmente, la anatomía humana y determinadas estructuras orgánicas. La talla y el pulido de la superficie permiten que la riqueza natural de la madera - sus vetas, tonalidades y variaciones de profundidad -, se integre plenamente en el lenguaje de la obra. La presencia de una amplia oquedad interior introduce un elemento espacial de especial relevancia, convirtiendo el vacío en parte activa de la composición. El resultado es una pieza de notable fuerza plástica, en la que materia, luz, sombra y movimiento establecen un equilibrio entre corporeidad y abstracción."
+      }
+    ]
   }
 ]
