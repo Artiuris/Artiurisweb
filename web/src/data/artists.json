@@ -5773,8 +5773,13 @@
     "works": [
       {
         "id": "lobato-xurxo-nueva-obra-1792799361044",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/lobato-xurxo/1792799400416-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Fiestra” (Ventana)",
+        "image": "/images/artworks/lobato-xurxo/1792799400416-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Fiestra”.\n+ SERIE: “Negra sombra”.\n+ TÉCNICA: Fotografía color.\n+ MEDIDAS: 127 x 86 centímetros.\n+ TIRADA: En estas medidas, es COPIA ÚNICA.\n+ AÑO DE REALIZACIÓN: 1999.\n+ La Diputación de La Coruña posee otra copia, con un formato distinto.\n",
+        "year": "1999",
+        "technique": "Fotografía color",
+        "dimensions": "127 x 86 centímetros",
+        "comments": "Con respecto a esta obra, Xurxo Lobato señala que “las sombras son una de mis obsesiones en la creación fotográfica”. La serie “Negra sombra”, - que se exhibió, entre otros muchos lugares, en el Festival de PHOTOESPAÑA, con la galería Faunas -, es una reflexión visual sobre las sombras y las luces, los contrastes, los misterios, la imaginación, la ausencia de luz. La foto titulada “Fiestra” (“Ventana”), está realizada con las luces del atardecer, y es la más emblemática de dicha serie."
       }
     ]
   }
