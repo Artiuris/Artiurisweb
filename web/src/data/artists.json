@@ -5799,8 +5799,11 @@
       },
       {
         "id": "ydanez-santiago-nueva-obra-1792883789757",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/ydanez-santiago/1792883804465-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/ydanez-santiago/1792883804465-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”. \n+ TÉCNICA: Óleo sobre lienzo pegado a tabla.\n+ MEDIDAS: 60 x 60 centímetros.\n",
+        "technique": "Óleo sobre lienzo pegado a tabla",
+        "dimensions": "60 x 60 centímetros"
       }
     ]
   }
