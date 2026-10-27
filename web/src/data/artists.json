@@ -3956,7 +3956,11 @@
         "description": "+ TÍTULO: \"Sin Título (S/T)\".\n+ TÉCNICA: Técnica mixta sobre el propio abanico de tela.\n+ MEDIDAS: 42 x 22 centímetros (Abanico abierto).\n+ AÑO: 1996.\n+ Enmarcado en vitrina con marco grueso de madera y cristal.\n+ Firmado en la barilla.\n",
         "year": "1996",
         "technique": "Técnica mixta sobre el propio abanico de tela",
-        "dimensions": "42 x 22 centímetros (Abanico abierto)"
+        "dimensions": "42 x 22 centímetros (Abanico abierto)",
+        "images": [
+          "/images/artworks/alvarez-basso-dario/1793121720350-puxando_o_ar_-_1..jpg",
+          "/images/artworks/alvarez-basso-dario/1793121763233-puxando_o_ar_-_2..jpg"
+        ]
       }
     ]
   },
