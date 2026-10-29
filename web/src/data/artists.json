@@ -5827,8 +5827,12 @@
     "works": [
       {
         "id": "barco-eduardo-nueva-obra-1793232949553",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/barco-eduardo/1793232973016-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Sin Título (S/T)”",
+        "image": "/images/artworks/barco-eduardo/1793232973016-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Sin Título (S/T)”. \n+ AÑO: 1994.\n+ TÉCNICA: Óleo sobre lienzo.\n+ MEDIDAS: 50 x 40,5 centímetros.\n+ Al dorso firmado y fechado (Agosto, 1994).\n",
+        "technique": "Óleo sobre lienzo",
+        "dimensions": "50 x 40,5 centímetros",
+        "year": "1994"
       }
     ]
   }
