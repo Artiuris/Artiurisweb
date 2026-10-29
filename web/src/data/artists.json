@@ -1524,31 +1524,6 @@
     "bio": "DIN  MATAMORO (Vigo, 1958).\nDin Matamoro es, sin ninguna duda,  un artista con una extensa y consolidada carrera artística, y uno de los nombres claves de la plástica gallega.\nLicenciado en Bellas Artes, Pintura y Grabado Calcográfico, en la Universidad Complutense de Madrid, comenzó su trayectoria pictórica con obras de carácter expresionista, pero a partir de 1985 experimenta con los soportes, pintando sobre guías de teléfono. Más adelante, coincidiendo con su estancia en Nueva York, donde estuvo becado por el Comité Hispano-Norteamericano, su pintura se vuelve más conceptual y emplea materiales nuevos como plásticos, pelo, pieles y fotografías. \nEn 1990 se instala temporalmente en Italia, aprovechando la Beca que le había concedido la Academia Española en Roma. En esta nueva etapa, el artista realiza una pintura más serena, con una reinterpretación personal de todos estos elementos, llevándolos al ámbito de la abstracción."
   },
   {
-    "id": "eduardo-barco",
-    "name": "EDUARDO BARCO",
-    "biography": "Eduardo Barco (Ciudad Real, 1970). Destacado artista y pintor abstracto español. Su obra explora la geometría, la proporción y el equilibrio cromático, creando composiciones espaciales que rozan el minimalismo y el constructivismo. Ha exhibido su trabajo en numerosas galerías y ferias de arte contemporáneo (ARCO), integrando colecciones como la Fundación Coca-Cola o el Museo Municipal de Madrid.",
-    "works": [
-      {
-        "id": "eduardo-barco-sin-titulo",
-        "title": "“Sin Título”",
-        "image": "/images/artworks/eduardo-barco/sin-titulo.png",
-        "technique": "Óleo sobre lienzo + MEDIDAS: 40,5 x 50 centímetros",
-        "year": "1994",
-        "dimensions": "40,5 x 50 centímetros"
-      }
-    ],
-    "artworks": [
-      {
-        "title": "“sin título”.",
-        "image": "/images/artworks/eduardo-barco-sin-titulo.png",
-        "technique": "óleo sobre lienzo",
-        "dimensions": "40,5 x 50 centímetros.",
-        "year": "1994"
-      }
-    ],
-    "bio": "EDUARDO BARCO  (Ciudad Real, 1970). \n1989-1992: Licenciatura en Bellas Artes - Universidad de Salamanca. \n1992-1993: Academie voor kunst, Den Bosch (HOLANDA). \n1993-1994: Universidad de Bellas Artes de Madrid. \n= EXPOSICIONES  INDIVIDUALES.- \n2021: \n“Cuestión de lectura”, MUSEO DEL QUIJOTE, Ciudad Real.\n2019: \nGalería LA NAVE, Valencia.\nCENTRO DE ARTE ALCOBENDAS, Madrid.\n2018: \nESPACIO BALMES, Madrid.\n2017: \n“Tasman Projects”, Madrid.\n2016: \n“Lugar común”. CEX, Ciudad Real. \n2015: \nPROYECTO “Puente aéreo”, Barcelona (Con Marcos Isamat).\n“Relaciones de conveniencia”. CEART, Fuenlabrada (Madrid). \n2014: \n“Combinatio”. ESPACIO E, León.\n“Cuando dejes de leerlo dejaré de escribirlo”. Galería MAGDA BELLOTTI, Madrid. \n2012: \n“Per se”. Galería PAZ Y COMEDIAS, Valencia. \n2011: \n“Pinturas construidas”. Galería MAGDA BELLOTTI, Madrid. \n2010: \n“Proyectos, maquetas, ideas, inicios”. MUSEO LÓPEZ VILLASEÑOR, Ciudad Real. \n2009: \n“Fosfenos y otras formas”. Galería LA NAVE, Valencia."
-  },
-  {
     "id": "eduardo-nave-silvestre",
     "name": "EDUARDO NAVE SILVESTRE",
     "biography": "Eduardo Nave Silvestre (Valencia, 1976). Reconocido fotógrafo español contemporáneo. Su obra documenta paisajes históricos marcados por el trauma o el paso del tiempo ('Serie Normandie'). Su estilo sereno, poético y reflexivo ha sido galardonado en múltiples certámenes internacionales como PhotoEspaña. Sus fotografías integran importantes colecciones públicas y privadas nacionales e internacionales.",
