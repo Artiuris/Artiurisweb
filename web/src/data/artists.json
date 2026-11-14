@@ -5831,8 +5831,12 @@
     "works": [
       {
         "id": "lauder-evelyn-nueva-obra-1794699902586",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/lauder-evelyn/1794699986349-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "“Hoja translúcida”",
+        "image": "/images/artworks/lauder-evelyn/1794699986349-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: “Hoja translúcida”.\n+ TÉCNICA: Fotografía sobre papel con acabado brillante.\n+ MEDIDAS: 40,5 x 26,5 centímetros.\n+ TIRADA: Edición Limitada de 10 COPIAS + 1 P/A.\n+ AÑO: 1999.\n+ Firmada en la parte trasera. \n+ Etiqueta en la parte trasera que dice: \"La Fundación de Investigación del Cáncer de Mama. Evelyn H. Lauder. Fundador\".\n",
+        "technique": "Fotografía sobre papel con acabado brillante",
+        "dimensions": "40,5 x 26,5 centímetros",
+        "year": "1999"
       }
     ]
   }
