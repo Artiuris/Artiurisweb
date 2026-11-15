@@ -5848,8 +5848,11 @@
     "works": [
       {
         "id": "galdeano-juan-nueva-obra-1794782594243",
-        "title": "Nueva Obra",
-        "image": "/images/artworks/galdeano-juan/1794782604681-imagen_de_la_obra_-_con_marco_y_luz..jpg"
+        "title": "\"Sin Título (S/T)\"",
+        "image": "/images/artworks/galdeano-juan/1794782604681-imagen_de_la_obra_-_con_marco_y_luz..jpg",
+        "description": "+ TÍTULO: \"Sin Título (S/T)\". \n+ TÉCNICA: Óleo y acrílico sobre tabla.\n+ MEDIDAS: 100 x 100 centímetros. \n+ Firmado en el extremo inferior izquierdo y al dorso.\n",
+        "technique": "Óleo y acrílico sobre tabla",
+        "dimensions": "100 x 100 centímetros"
       }
     ]
   }
